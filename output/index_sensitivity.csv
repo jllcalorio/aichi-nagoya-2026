@@ -1,0 +1,153 @@
+variant,country_code,country,index,rank
+"Baseline (population, wealth and team size)",CHN,China,93.34834834834835,2
+"Baseline (population, wealth and team size)",JPN,Japan,90.04504504504504,3
+"Baseline (population, wealth and team size)",KOR,Korea,85.16516516516516,6
+"Baseline (population, wealth and team size)",IND,India,76.98198198198199,7
+"Baseline (population, wealth and team size)",UZB,Uzbekistan,85.91591591591592,5
+"Baseline (population, wealth and team size)",IRI,IR Iran,86.42642642642643,4
+"Baseline (population, wealth and team size)",THA,Thailand,53.168168168168165,16
+"Baseline (population, wealth and team size)",KAZ,Kazakhstan,76.6066066066066,8
+"Baseline (population, wealth and team size)",HKG,"Hong Kong, China",64.56456456456456,13
+"Baseline (population, wealth and team size)",BRN,Bahrain,67.01201201201201,12
+"Baseline (population, wealth and team size)",MAS,Malaysia,67.28228228228228,11
+"Baseline (population, wealth and team size)",PRK,DPR Korea,93.91891891891892,1
+"Baseline (population, wealth and team size)",UAE,UA Emirates,44.65465465465466,25
+"Baseline (population, wealth and team size)",QAT,Qatar,50.07507507507507,18
+"Baseline (population, wealth and team size)",TPE,Chinese Taipei,71.53153153153153,10
+"Baseline (population, wealth and team size)",INA,Indonesia,47.7027027027027,22
+"Baseline (population, wealth and team size)",PHI,Philippines,45.570570570570574,24
+"Baseline (population, wealth and team size)",KSA,Saudi Arabia,63.453453453453456,14
+"Baseline (population, wealth and team size)",KUW,Kuwait,39.27927927927928,27
+"Baseline (population, wealth and team size)",VIE,Vietnam,49.33933933933934,19
+"Baseline (population, wealth and team size)",SGP,Singapore,48.76876876876877,21
+"Baseline (population, wealth and team size)",TJK,Tajikistan,54.054054054054056,15
+"Baseline (population, wealth and team size)",JOR,Jordan,76.17117117117117,9
+"Baseline (population, wealth and team size)",MAC,"Macao, China",35.55555555555556,28
+"Baseline (population, wealth and team size)",KGZ,Kyrgyzstan,49.0990990990991,20
+"Baseline (population, wealth and team size)",MGL,Mongolia,21.366366366366368,33
+"Baseline (population, wealth and team size)",SRI,Sri Lanka,21.696696696696698,32
+"Baseline (population, wealth and team size)",PAK,Pakistan,22.80780780780781,30
+"Baseline (population, wealth and team size)",TKM,Turkmenistan,43.64864864864865,26
+"Baseline (population, wealth and team size)",AFG,Afghanistan,46.92192192192192,23
+"Baseline (population, wealth and team size)",LBN,Lebanon,50.735735735735744,17
+"Baseline (population, wealth and team size)",OMA,Oman,22.792792792792792,31
+"Baseline (population, wealth and team size)",CAM,Cambodia,25.675675675675674,29
+"Baseline (population, wealth and team size)",NEP,Nepal,5.45045045045045,37
+"Baseline (population, wealth and team size)",BAN,Bangladesh,10.3003003003003,35
+"Baseline (population, wealth and team size)",LAO,Lao PDR,11.951951951951953,34
+"Baseline (population, wealth and team size)",MDV,Maldives,2.1621621621621623,38
+"Baseline (population, wealth and team size)",PLE,Palestine,6.486486486486487,36
+Population and wealth only (no team-size control),CHN,China,93.34834834834835,2
+Population and wealth only (no team-size control),JPN,Japan,91.71171171171171,3
+Population and wealth only (no team-size control),KOR,Korea,90.16516516516518,4
+Population and wealth only (no team-size control),IND,India,78.64864864864866,8
+Population and wealth only (no team-size control),UZB,Uzbekistan,87.02702702702703,5
+Population and wealth only (no team-size control),IRI,IR Iran,85.87087087087087,6
+Population and wealth only (no team-size control),THA,Thailand,61.5015015015015,14
+Population and wealth only (no team-size control),KAZ,Kazakhstan,80.49549549549549,7
+Population and wealth only (no team-size control),HKG,"Hong Kong, China",70.67567567567568,11
+Population and wealth only (no team-size control),BRN,Bahrain,66.45645645645646,13
+Population and wealth only (no team-size control),MAS,Malaysia,70.61561561561561,12
+Population and wealth only (no team-size control),PRK,DPR Korea,93.91891891891892,1
+Population and wealth only (no team-size control),UAE,UA Emirates,39.0990990990991,25
+Population and wealth only (no team-size control),QAT,Qatar,47.852852852852855,22
+Population and wealth only (no team-size control),TPE,Chinese Taipei,77.0870870870871,9
+Population and wealth only (no team-size control),INA,Indonesia,50.48048048048048,19
+Population and wealth only (no team-size control),PHI,Philippines,50.570570570570574,18
+Population and wealth only (no team-size control),KSA,Saudi Arabia,59.009009009009006,15
+Population and wealth only (no team-size control),KUW,Kuwait,34.27927927927928,26
+Population and wealth only (no team-size control),VIE,Vietnam,52.67267267267267,17
+Population and wealth only (no team-size control),SGP,Singapore,50.43543543543544,20
+Population and wealth only (no team-size control),TJK,Tajikistan,53.498498498498506,16
+Population and wealth only (no team-size control),JOR,Jordan,72.28228228228228,10
+Population and wealth only (no team-size control),MAC,"Macao, China",29.444444444444446,28
+Population and wealth only (no team-size control),KGZ,Kyrgyzstan,50.210210210210214,21
+Population and wealth only (no team-size control),MGL,Mongolia,27.47747747747748,29
+Population and wealth only (no team-size control),SRI,Sri Lanka,23.363363363363366,30
+Population and wealth only (no team-size control),PAK,Pakistan,22.80780780780781,31
+Population and wealth only (no team-size control),TKM,Turkmenistan,33.648648648648646,27
+Population and wealth only (no team-size control),AFG,Afghanistan,42.477477477477485,23
+Population and wealth only (no team-size control),LBN,Lebanon,40.73573573573574,24
+Population and wealth only (no team-size control),OMA,Oman,21.126126126126128,33
+Population and wealth only (no team-size control),CAM,Cambodia,21.23123123123123,32
+Population and wealth only (no team-size control),NEP,Nepal,6.561561561561562,36
+Population and wealth only (no team-size control),BAN,Bangladesh,10.3003003003003,35
+Population and wealth only (no team-size control),LAO,Lao PDR,11.951951951951953,34
+Population and wealth only (no team-size control),MDV,Maldives,2.1621621621621623,38
+Population and wealth only (no team-size control),PLE,Palestine,6.486486486486487,37
+No population or wealth adjustment,CHN,China,99.32432432432432,1
+No population or wealth adjustment,JPN,Japan,97.97297297297298,2
+No population or wealth adjustment,KOR,Korea,92.56756756756756,4
+No population or wealth adjustment,IND,India,85.8108108108108,5
+No population or wealth adjustment,UZB,Uzbekistan,83.78378378378379,7
+No population or wealth adjustment,IRI,IR Iran,85.8108108108108,5
+No population or wealth adjustment,THA,Thailand,57.432432432432435,15
+No population or wealth adjustment,KAZ,Kazakhstan,77.7027027027027,9
+No population or wealth adjustment,HKG,"Hong Kong, China",69.5945945945946,12
+No population or wealth adjustment,BRN,Bahrain,59.45945945945946,14
+No population or wealth adjustment,MAS,Malaysia,72.2972972972973,10
+No population or wealth adjustment,PRK,DPR Korea,93.91891891891892,3
+No population or wealth adjustment,UAE,UA Emirates,40.54054054054054,23
+No population or wealth adjustment,QAT,Qatar,46.62162162162162,20
+No population or wealth adjustment,TPE,Chinese Taipei,81.08108108108108,8
+No population or wealth adjustment,INA,Indonesia,53.37837837837838,18
+No population or wealth adjustment,PHI,Philippines,49.32432432432432,19
+No population or wealth adjustment,KSA,Saudi Arabia,69.5945945945946,12
+No population or wealth adjustment,KUW,Kuwait,32.432432432432435,27
+No population or wealth adjustment,VIE,Vietnam,54.72972972972974,17
+No population or wealth adjustment,SGP,Singapore,55.4054054054054,16
+No population or wealth adjustment,TJK,Tajikistan,42.56756756756757,21
+No population or wealth adjustment,JOR,Jordan,72.2972972972973,10
+No population or wealth adjustment,MAC,"Macao, China",25,28
+No population or wealth adjustment,KGZ,Kyrgyzstan,40.54054054054054,23
+No population or wealth adjustment,MGL,Mongolia,13.513513513513514,33
+No population or wealth adjustment,SRI,Sri Lanka,23.648648648648653,30
+No population or wealth adjustment,PAK,Pakistan,23.648648648648653,30
+No population or wealth adjustment,TKM,Turkmenistan,35.810810810810814,26
+No population or wealth adjustment,AFG,Afghanistan,38.513513513513516,25
+No population or wealth adjustment,LBN,Lebanon,41.891891891891895,22
+No population or wealth adjustment,OMA,Oman,24.324324324324326,29
+No population or wealth adjustment,CAM,Cambodia,19.594594594594593,32
+No population or wealth adjustment,NEP,Nepal,4.72972972972973,37
+No population or wealth adjustment,BAN,Bangladesh,11.486486486486488,35
+No population or wealth adjustment,LAO,Lao PDR,12.162162162162163,34
+No population or wealth adjustment,MDV,Maldives,2.7027027027027026,38
+No population or wealth adjustment,PLE,Palestine,8.108108108108109,36
+Competitive quality only (field beaten and head-to-head),CHN,China,98.64864864864865,1
+Competitive quality only (field beaten and head-to-head),JPN,Japan,98.64864864864865,1
+Competitive quality only (field beaten and head-to-head),KOR,Korea,91.8918918918919,4
+Competitive quality only (field beaten and head-to-head),IND,India,85.13513513513513,6
+Competitive quality only (field beaten and head-to-head),UZB,Uzbekistan,81.08108108108108,8
+Competitive quality only (field beaten and head-to-head),IRI,IR Iran,89.1891891891892,5
+Competitive quality only (field beaten and head-to-head),THA,Thailand,60.810810810810814,15
+Competitive quality only (field beaten and head-to-head),KAZ,Kazakhstan,78.37837837837837,9
+Competitive quality only (field beaten and head-to-head),HKG,"Hong Kong, China",72.97297297297297,11
+Competitive quality only (field beaten and head-to-head),BRN,Bahrain,55.4054054054054,17
+Competitive quality only (field beaten and head-to-head),MAS,Malaysia,72.97297297297298,10
+Competitive quality only (field beaten and head-to-head),PRK,DPR Korea,94.5945945945946,3
+Competitive quality only (field beaten and head-to-head),UAE,UA Emirates,43.24324324324324,21
+Competitive quality only (field beaten and head-to-head),QAT,Qatar,45.94594594594595,20
+Competitive quality only (field beaten and head-to-head),TPE,Chinese Taipei,82.43243243243244,7
+Competitive quality only (field beaten and head-to-head),INA,Indonesia,55.4054054054054,17
+Competitive quality only (field beaten and head-to-head),PHI,Philippines,55.4054054054054,17
+Competitive quality only (field beaten and head-to-head),KSA,Saudi Arabia,68.91891891891892,12
+Competitive quality only (field beaten and head-to-head),KUW,Kuwait,32.432432432432435,27
+Competitive quality only (field beaten and head-to-head),VIE,Vietnam,59.45945945945946,16
+Competitive quality only (field beaten and head-to-head),SGP,Singapore,67.56756756756756,13
+Competitive quality only (field beaten and head-to-head),TJK,Tajikistan,36.48648648648649,23
+Competitive quality only (field beaten and head-to-head),JOR,Jordan,67.56756756756756,13
+Competitive quality only (field beaten and head-to-head),MAC,"Macao, China",33.78378378378378,26
+Competitive quality only (field beaten and head-to-head),KGZ,Kyrgyzstan,39.189189189189186,22
+Competitive quality only (field beaten and head-to-head),MGL,Mongolia,18.91891891891892,30
+Competitive quality only (field beaten and head-to-head),SRI,Sri Lanka,28.37837837837838,29
+Competitive quality only (field beaten and head-to-head),PAK,Pakistan,16.216216216216218,32
+Competitive quality only (field beaten and head-to-head),TKM,Turkmenistan,35.13513513513514,25
+Competitive quality only (field beaten and head-to-head),AFG,Afghanistan,29.72972972972973,28
+Competitive quality only (field beaten and head-to-head),LBN,Lebanon,36.48648648648649,23
+Competitive quality only (field beaten and head-to-head),OMA,Oman,14.864864864864865,33
+Competitive quality only (field beaten and head-to-head),CAM,Cambodia,10.81081081081081,34
+Competitive quality only (field beaten and head-to-head),NEP,Nepal,6.756756756756757,36
+Competitive quality only (field beaten and head-to-head),BAN,Bangladesh,18.91891891891892,30
+Competitive quality only (field beaten and head-to-head),LAO,Lao PDR,6.756756756756757,36
+Competitive quality only (field beaten and head-to-head),MDV,Maldives,1.3513513513513513,38
+Competitive quality only (field beaten and head-to-head),PLE,Palestine,8.108108108108109,35

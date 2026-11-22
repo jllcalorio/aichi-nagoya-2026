@@ -1,0 +1,28 @@
+<div class="ag-downloads">
+  <button type="button" class="btn btn-primary" onclick="agDownload('ag-xlsx', 'ag2026_data_and_tables.xlsx', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet')">
+    <i class="bi bi-file-earmark-spreadsheet"></i> Download data and all tables (Excel, {{XLSX_MB}})</button>
+  <button type="button" class="btn btn-outline-primary" onclick="agDownload('ag-zip', 'ag2026_figures_600dpi.zip', 'application/zip')">
+    <i class="bi bi-file-earmark-zip"></i> Download all figures, 600 DPI (ZIP, {{ZIP_MB}})</button>
+  <p class="ag-dl-note">The Excel file has one worksheet per table: the scraped results, final rankings, medal table,
+  athletes by sport, schedule, country covariates, Tables 1 to 4, and every analysis table. Its first sheet,
+  <em>About</em>, lists them all.</p>
+</div>
+<script type="text/plain" id="ag-xlsx">{{XLSX_B64}}</script>
+<script type="text/plain" id="ag-zip">{{ZIP_B64}}</script>
+<script>
+function agDownload(id, name, mime) {
+  const bin = atob(document.getElementById(id).textContent.trim());
+  const bytes = new Uint8Array(bin.length);
+  for (let i = 0; i < bin.length; i++) bytes[i] = bin.charCodeAt(i);
+  const url = URL.createObjectURL(new Blob([bytes], { type: mime }));
+  const a = document.createElement("a");
+  a.href = url; a.download = name; document.body.appendChild(a); a.click();
+  setTimeout(() => { URL.revokeObjectURL(url); a.remove(); }, 2000);
+}
+</script>
+<style>
+  .ag-downloads { display: flex; flex-wrap: wrap; gap: .6rem; align-items: center; margin: .5rem 0 1.5rem;
+                  padding: 1rem; border: 1px solid #dee2e6; border-radius: .5rem; background: #f8f9fa; }
+  .ag-downloads .btn { font-size: .92rem; }
+  .ag-dl-note { flex-basis: 100%; margin: .2rem 0 0; font-size: .85rem; color: #555; }
+</style>

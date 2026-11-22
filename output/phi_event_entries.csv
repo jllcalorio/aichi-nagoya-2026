@@ -1,0 +1,279 @@
+medal_date,sport,event,gender,competitor_name,team_members,final_rank,rank_tied,n_field,n_countries_event,field_beaten,final_result,irm,medal,top8,near_miss
+2026-09-25,3x3 Basketball,Men,Men,Philippines,PABLO Manuel; CABANERO Nicael; DUNGO David; BUENAFLOR Koji,4,FALSE,16,16,0.8,,OK,,1,1
+2026-09-25,3x3 Basketball,Women,Women,Philippines,KA Kennan; ESPANOL Amyah; PASILANG Maria; DELA ROSA Quinn,2,FALSE,16,16,0.9333333333333333,,OK,Silver,1,0
+2026-10-01,Archery,Compound Men's Individual,Men,DELA CRUZ Paul Marton,,11,TRUE,45,17,0.7727272727272727,,,,0,0
+2026-10-01,Archery,Compound Men's Individual,Men,REAPORT Jeremy Ebbinghans,,23,FALSE,45,17,0.5,,,,0,0
+2026-10-01,Archery,Compound Men's Individual,Men,JUCUTAN Alon Yuan,,43,FALSE,45,17,0.045454545454545456,,,,0,0
+2026-09-30,Archery,Compound Men's Team,Men,Philippines,REAPORT Jeremy Ebbinghans; DELA CRUZ Paul Marton; JUCUTAN Alon Yuan,11,TRUE,14,14,0.23076923076923078,,,,0,0
+2026-09-30,Archery,Compound Mixed Team,Mixed,Philippines,GONZALES Michiko Brianna; REAPORT Jeremy Ebbinghans; CAPARAS Vanessa; JUCUTAN Alon Yuan; COJUANGCO Amaya Amparo; DELA CRUZ Paul Marton,11,TRUE,16,16,0.3333333333333333,,,,0,0
+2026-10-01,Archery,Compound Women's Individual,Women,COJUANGCO Amaya Amparo,,2,FALSE,53,22,0.9807692307692307,,,Silver,1,0
+2026-10-01,Archery,Compound Women's Individual,Women,GONZALES Michiko Brianna,,20,FALSE,53,22,0.6346153846153846,,,,0,0
+2026-10-01,Archery,Compound Women's Individual,Women,CAPARAS Vanessa,,50,FALSE,53,22,0.057692307692307696,,,,0,0
+2026-09-30,Archery,Compound Women's Team,Women,Philippines,GONZALES Michiko Brianna; CAPARAS Vanessa; COJUANGCO Amaya Amparo,11,TRUE,15,15,0.2857142857142857,,,,0,0
+2026-10-03,Archery,Recurve Men's Individual,Men,GARCIA Girvin Cullen Nigel,,28,TRUE,58,24,0.5263157894736842,,,,0,0
+2026-10-03,Archery,Recurve Men's Individual,Men,COLAS Chass Mhaiven,,32,FALSE,58,24,0.45614035087719296,,,,0,0
+2026-10-03,Archery,Recurve Men's Individual,Men,NAWEW Renian Keith,,56,FALSE,58,24,0.03508771929824561,,,,0,0
+2026-10-02,Archery,Recurve Men's Team,Men,Philippines,GARCIA Girvin Cullen Nigel; COLAS Chass Mhaiven; NAWEW Renian Keith,10,FALSE,17,17,0.4375,,,,0,0
+2026-10-02,Archery,Recurve Mixed Team,Mixed,Philippines,GARCIA Girvin Cullen Nigel; BIDAURE Gabrielle Monica; NAWEW Renian Keith; GARCIA Giuliana Vernice; TAGLE Naina Dominique; COLAS Chass Mhaiven,7,FALSE,19,20,0.6666666666666666,,,,1,0
+2026-10-03,Archery,Recurve Women's Individual,Women,BIDAURE Gabrielle Monica,,13,FALSE,53,22,0.7692307692307693,,,,0,0
+2026-10-03,Archery,Recurve Women's Individual,Women,TAGLE Naina Dominique,,24,FALSE,53,22,0.5576923076923077,,,,0,0
+2026-10-03,Archery,Recurve Women's Individual,Women,GARCIA Giuliana Vernice,,46,FALSE,53,22,0.1346153846153846,,,,0,0
+2026-10-02,Archery,Recurve Women's Team,Women,Philippines,BIDAURE Gabrielle Monica; GARCIA Giuliana Vernice; TAGLE Naina Dominique,12,FALSE,15,15,0.21428571428571427,,,,0,0
+2026-09-21,Artistic Gymnastics,Men's All-Around,Men,YULO Karl Jahrel Eldrew,,7,FALSE,18,10,0.6470588235294118,,OK,,1,0
+2026-09-21,Artistic Gymnastics,Men's All-Around,Men,YULO Carlos Edriel,,9,FALSE,18,10,0.5294117647058824,,OK,,0,0
+2026-09-24,Artistic Gymnastics,Men's Floor Exercise,Men,YULO Carlos Edriel,,1,FALSE,8,5,1,,OK,Gold,1,0
+2026-09-24,Artistic Gymnastics,Men's Floor Exercise,Men,YULO Karl Jahrel Eldrew,,7,FALSE,8,5,0.14285714285714285,,OK,,1,0
+2026-09-25,Artistic Gymnastics,Men's Horizontal Bar,Men,YULO Karl Jahrel Eldrew,,3,FALSE,8,7,0.7142857142857143,,OK,Bronze,1,0
+2026-09-25,Artistic Gymnastics,Men's Parallel Bars,Men,YULO Carlos Edriel,,4,FALSE,8,6,0.5714285714285714,,OK,,1,1
+2026-09-23,Artistic Gymnastics,Men's Team,Men,Philippines,DE LEON Justine Ace; YULO Karl Jahrel Eldrew; NUNEZ Zachary; BESANA Juancho Miguel; YULO Carlos Edriel,6,FALSE,8,8,0.2857142857142857,,OK,,1,0
+2026-09-25,Artistic Gymnastics,Men's Vault,Men,YULO Carlos Edriel,,1,FALSE,8,7,1,,OK,Gold,1,0
+2026-09-25,Artistic Gymnastics,Men's Vault,Men,BESANA Juancho Miguel,,5,FALSE,8,7,0.42857142857142855,,OK,,1,1
+2026-09-22,Artistic Gymnastics,Women's All-Around,Women,RUIVIVAR Levi,,10,FALSE,24,14,0.6086956521739131,,OK,,0,0
+2026-09-22,Artistic Gymnastics,Women's All-Around,Women,KVAMME Kylee Ann,,12,FALSE,24,14,0.5217391304347826,,OK,,0,0
+2026-09-23,Artistic Gymnastics,Women's Team,Women,Philippines,GARCIA Haylee; SUPNET Lauren; KVAMME Kylee Ann; ANDREW Chiara Dawn; RUIVIVAR Levi,6,FALSE,8,8,0.2857142857142857,,OK,,1,0
+2026-09-29,Athletics,4 x 100m Relay Mixed,Mixed,Philippines,KNOTT Kristina Marie; LAURANCE Jessica Rose; LOPENA Anfernee; CATRAL Neil,6,FALSE,13,13,0.5833333333333334,42.20,OK,,1,0
+2026-09-24,Athletics,4 x 400m Relay Mixed,Mixed,Philippines,JOHNSON Naomi; BORADO Gabriel; DEL PRADO Michael; BOSSONG Victoria,7,FALSE,12,12,0.45454545454545453,3:22.23,OK,,1,0
+2026-09-25,Athletics,Men's 100m,Men,LOPENA Anfernee,,26,FALSE,38,25,0.32432432432432434,10.65,OK,,0,0
+2026-09-25,Athletics,Men's 100m,Men,JARDIN Kent Francis,,32,FALSE,38,25,0.16216216216216217,10.74,OK,,0,0
+2026-09-27,Athletics,Men's 110m Hurdles,Men,TOLENTINO John,,3,FALSE,17,13,0.875,13.48,OK,Bronze,1,0
+2026-09-27,Athletics,Men's 200m,Men,CATRAL Neil,,18,FALSE,33,25,0.46875,21.33,OK,,0,0
+2026-09-29,Athletics,Men's 4 x 400m Relay,Men,Philippines,BORADO Gabriel; RAMIREZ Frederick; LORAÑA Hussein; ARCENAL Jazzpeer Lanz; DEL PRADO Michael,7,FALSE,11,12,0.4,3:12.24,OK,,1,0
+2026-09-26,Athletics,Men's 400m,Men,DEL PRADO Michael,,21,FALSE,26,17,0.2,48.13,OK,,0,0
+2026-09-26,Athletics,Men's 400m,Men,BORADO Gabriel,,22,FALSE,26,17,0.16,48.14,OK,,0,0
+2026-09-28,Athletics,Men's 400m Hurdles,Men,ARCENAL Jazzpeer Lanz,,11,FALSE,18,12,0.4117647058823529,51.47,OK,,0,0
+2026-09-29,Athletics,Men's 5000m,Men,GUERMALI Yacine,,5,FALSE,18,13,0.7647058823529411,13:44.61,OK,,1,1
+2026-09-29,Athletics,Men's 5000m,Men,WAGDOS Sonny,,11,FALSE,18,13,0.4117647058823529,14:29.42,OK,,0,0
+2026-09-29,Athletics,Men's 800m,Men,LORAÑA Hussein,,14,FALSE,20,16,0.3157894736842105,1:51.68,OK,,0,0
+2026-09-27,Athletics,Men's High Jump,Men,GROSPE Leonard,,9,FALSE,13,11,0.3333333333333333,2.05,OK,,0,0
+2026-09-28,Athletics,Men's Long Jump,Men,UBAS Janry,,11,FALSE,16,13,0.3333333333333333,7.39,OK,,0,0
+2026-09-26,Athletics,Men's Marathon,Men,SALAÑO Richard,,14,FALSE,19,13,0.2777777777777778,2:20:34,OK,,0,0
+2026-09-27,Athletics,Men's Marathon Race Walk,Men,SEILER Nathaniel,,,FALSE,7,5,0,DQ,DQ,,0,0
+2026-09-29,Athletics,Men's Pole Vault,Men,OBIENA Ernest John,,1,FALSE,12,8,1,5.91,OK,Gold,1,0
+2026-09-25,Athletics,Women's 100m,Women,LAURANCE Jessica Rose,,8,FALSE,28,19,0.7407407407407407,11.58,OK,,1,0
+2026-09-25,Athletics,Women's 100m,Women,NELSON Zion Rose,,9,FALSE,28,19,0.7037037037037037,11.63,OK,,0,0
+2026-09-27,Athletics,Women's 200m,Women,JOHNSON Naomi,,12,FALSE,26,19,0.56,23.76,OK,,0,0
+2026-09-27,Athletics,Women's 200m,Women,NELSON Zion Rose,,14,FALSE,26,19,0.48,23.85,OK,,0,0
+2026-09-28,Athletics,Women's 4 x 100m Relay,Women,Philippines,JOHNSON Naomi; LAURANCE Jessica Rose; PAMA Lianne Diana; NELSON Zion Rose,5,FALSE,11,11,0.6,43.60,OK,,1,1
+2026-09-28,Athletics,Women's 400m Hurdles,Women,HOFFMAN Lauren,,9,FALSE,11,8,0.2,57.94,OK,,0,0
+2026-09-29,Athletics,Women's 800m,Women,BOSSONG Victoria,,3,FALSE,14,11,0.8461538461538461,2:05.34,OK,Bronze,1,0
+2026-09-26,Athletics,Women's Marathon,Women,TORREGOSA Artjoy,,14,FALSE,18,11,0.23529411764705882,2:48:36,OK,,0,0
+2026-09-20,Basketball,Men,Men,Philippines,NOCUM Adrian; BAREFIELD Sedrick; ABARRIENTOS Rhon; TROLLANO Celedonio Jr; AHANMISI Jerrick; BOLICK Robert; BATES Brandon; BALTAZAR Justine; ARANA Justin; LUCERO Zavier; ROSSER Brandon,9,FALSE,12,12,0.2727272727272727,,OK,,0,0
+2026-09-26,Basketball,Women,Women,Philippines,BERNARDINO Afril; PASTRANA Kent; PONTEJOS Janine; SURADA Angelica; YAM Hazelle; BERBERABE Stefani; DEL CARMEN Monique; JOSON Jhazmin; PINGOL Karl; CLARIN Camille; MEANS Elizabeth; MALAGAR Camille,5,FALSE,11,11,0.6,,OK,,1,1
+2026-10-03,Beach Volleyball,Men's,Men,ABDILLA / FRANCISCO,ABDILLA Alnakran; FRANCISCO Lerry John,17,TRUE,30,18,0.4482758620689655,,,,0,0
+2026-10-03,Beach Volleyball,Men's,Men,BUYTRAGO / ROSALES,BUYTRAGO James; ROSALES Ronniel,17,TRUE,30,18,0.4482758620689655,,,,0,0
+2026-10-02,Beach Volleyball,Women's,Women,PROGELLA / PAGARA,PROGELLA Khylem Harl; PAGARA Sofiah Shanine,3,FALSE,26,16,0.92,,,Bronze,1,0
+2026-10-02,Beach Volleyball,Women's,Women,PONS / RONDINA,PONS Bernadeth; RONDINA Cherry Ann,5,TRUE,26,16,0.84,,,,1,1
+2026-10-02,Boxing,Men's 55kg,Men,PAALAM Carlo,,2,FALSE,24,24,0.9565217391304348,,OK,Silver,1,0
+2026-10-02,Boxing,Men's 60kg,Men,OGAYRE Junmilardo,,5,TRUE,28,28,0.8518518518518519,,OK,,1,1
+2026-10-02,Boxing,Men's 70kg,Men,PETECIO Norlan,,9,TRUE,25,25,0.6666666666666666,,OK,,0,0
+2026-10-02,Boxing,Women's 51kg,Women,VILLEGAS Aira,,17,TRUE,19,19,0.1111111111111111,,OK,,0,0
+2026-10-02,Boxing,Women's 54kg,Women,PASUIT Riza,,9,TRUE,18,18,0.5294117647058824,,OK,,0,0
+2026-10-02,Boxing,Women's 60kg,Women,PETECIO Nesthy,,5,TRUE,16,16,0.7333333333333333,,OK,,1,1
+2026-09-28,Cycling BMX Racing,Men,Men,COO Patrick Bren,,7,FALSE,12,6,0.45454545454545453,54.897,OK,,1,0
+2026-09-28,Cycling BMX Racing,Men,Men,CALUAG Daniel Patrick,,11,FALSE,12,6,0.09090909090909091,,OK,,0,0
+2026-09-24,Cycling Mountain Bike,Women's Cross-country,Women,YAOYAO Shagne Paula,,9,FALSE,16,9,0.4666666666666667,,LAP,,0,0
+2026-09-24,Cycling Mountain Bike,Women's Cross-country,Women,SENDRIJAS Adel Pia,,11,FALSE,16,9,0.3333333333333333,,LAP,,0,0
+2026-10-04,Equestrian,"Jumping,Individual Competition A(heights of 1.40-1.50m)",Open,SYQUIA Colin J.,,9,FALSE,15,10,0.42857142857142855,9,,,0,0
+2026-09-30,Esports,1v4 asymmetrical survival game [Identity V - Asian Games Version],Open,Philippines,JUICO Johannes Glenn; GUMARO Joshua Francis; TIMTIMAN Joachim Santino; CORTEZ Psalm David; GALLO Sander Joseph Creed; JULIAN Xyrel Terrence; ONQUIT Japhet Jay,5,TRUE,10,10,0.5555555555555556,,,,1,1
+2026-09-24,Esports,Action-adventure / Battle Royale [NARAKA : BLADEPOINT],Open,Philippines,TENOSO Ouhric Von; ESPEJO Richard; PACLIBAR Raphaelron Joaquin; PEREZ Kenneth,5,TRUE,8,8,0.42857142857142855,,,,1,1
+2026-09-28,Esports,MOBA [Honor of Kings],Open,Philippines,DAJAO Golden Hart; TAN Justine Ritchie; ESGUERRA Charles Roman; DAJAO Dragon Hart; TUNGOL Jhon Mike; NAZARREA Chammy Paul,3,TRUE,10,10,0.7777777777777778,,,Bronze,1,0
+2026-10-01,Esports,MOBA [Mobile Legends: Bang Bang],Open,Philippines,PABICO Alston; NEPOMUCENO Karl Gabriel; VIANA Dave Jr.; VINUYA Sanford; DELA CRUZ Jay Pee; PILLAS Grant Duane,5,TRUE,11,11,0.6,,,,1,1
+2026-09-27,Esports,MOBA [Pokémon UNITE],Open,Philippines,DAVID Lance; LEONCIO Ducke Harnold; GATMAITAN Lawrence Anthony; SALAZAR Kim Rey; MEMPIN Robert Jon; OCIO Michael Vaughn,3,TRUE,10,10,0.7777777777777778,,,Bronze,1,0
+2026-09-26,Esports,Puzzle [Puyo Puyo Champions],Open,GONZALVO Karl Owen,,5,TRUE,10,10,0.5555555555555556,,,,1,1
+2026-09-22,Fencing,Men's Foil Individual,Men,PEREZ Nathaniel,,27,FALSE,36,20,0.2571428571428571,,,,0,0
+2026-09-22,Fencing,Men's Foil Individual,Men,TRANQUILAN Sammuel,,30,FALSE,36,20,0.17142857142857143,,,,0,0
+2026-09-23,Fencing,Men's Sabre Individual,Men,CONCEPCION Christian Jhester,,11,FALSE,29,17,0.6428571428571429,,,,0,0
+2026-09-23,Fencing,Men's Sabre Individual,Men,VILLANUEVA Eunice Daniel,,18,FALSE,29,17,0.39285714285714285,,,,0,0
+2026-09-26,Fencing,Men's Sabre Team,Men,Philippines,CONCEPCION Christian Jhester; PEREZ Nathaniel; TRANQUILAN Sammuel; VILLANUEVA Eunice Daniel,9,FALSE,12,12,0.2727272727272727,,,,0,0
+2026-09-24,Fencing,Men's Épée Individual,Men,JOSE Noelito Jr.,,12,FALSE,41,22,0.725,,,,0,0
+2026-09-24,Fencing,Men's Épée Individual,Men,BAUTISTA Jian Miguel,,31,FALSE,41,22,0.25,,,,0,0
+2026-09-27,Fencing,Men's Épée Team,Men,Philippines,PEREZ Nathaniel; JOSE Noelito Jr.; BAUTISTA Jian Miguel; TRANQUILAN Sammuel,10,FALSE,18,18,0.47058823529411764,,,,0,0
+2026-09-23,Fencing,Women's Foil Individual,Women,CATANTAN Samantha Kyle,,6,FALSE,24,14,0.782608695652174,,,,1,0
+2026-09-23,Fencing,Women's Foil Individual,Women,CATANTAN Janna Allysah,,18,FALSE,24,14,0.2608695652173913,,,,0,0
+2026-09-24,Fencing,Women's Sabre Individual,Women,DALMACIO Queen Denise,,15,FALSE,24,13,0.391304347826087,,,,0,0
+2026-09-24,Fencing,Women's Sabre Individual,Women,NICANOR Jylyn,,20,FALSE,24,13,0.17391304347826086,,,,0,0
+2026-09-27,Fencing,Women's Sabre Team,Women,Philippines,CATANTAN Janna Allysah; DALMACIO Queen Denise; NICANOR Jylyn; CATANTAN Samantha Kyle,9,FALSE,11,11,0.2,,,,0,0
+2026-09-22,Fencing,Women's Épée Individual,Women,GOMEZ Juliana Ma. Beatrice,,14,FALSE,31,18,0.5666666666666667,,,,0,0
+2026-09-22,Fencing,Women's Épée Individual,Women,LARRAZABAL Alexa,,26,FALSE,31,18,0.16666666666666666,,,,0,0
+2026-09-25,Fencing,Women's Épée Team,Women,Philippines,CATANTAN Janna Allysah; LARRAZABAL Alexa; GOMEZ Juliana Ma. Beatrice; CATANTAN Samantha Kyle,10,FALSE,13,13,0.25,,,,0,0
+2026-10-03,Football,Men,Men,Philippines,GUIMARAES Nicholas; VILLANUEVA Bryan; GUIMARAES Gabriel; AMIRUL Kamil; MERINO Martin; REYES Sandro; WOODS Scott; MUENS Gavin; ALDEGUER Andres; LUCERO John; CARINO Dov; GONZALEZ Jose; LIM Ryen; ROSQUILLO Jaime; SMITH Ethan; PENA Jared; MCMANUS Brian; BALDISIMO Michael; RONTINI Christian; ORTEGA Antoine; RUBLICO Santiago; ASTILLA Aidan; DYE Patrick,11,FALSE,15,15,0.2857142857142857,,OK,,0,0
+2026-10-02,Football,Women,Women,Philippines,MCDANIEL Olivia A. Davies; BONTA Reina; OKA Azumi; LEMORAN Charisa Marie; LONG Hali Moriah; SAWICKI Jaclyn Katrina; COLLINS Natalie Kirsten; LEACH Skye Alana; FRILLES Carleigh; RAMIREZ Mary Louise; TOLENTIN Dionesa; HAWKINSON Kaya; FONTAMILLAS Janly; CURRAN Jourdyn Malosi; PASION Isabella; WUNSCH Sofia Nicole; SIA Aiselyn Marie; MEOLLO Nina Andrea; CARPIO Alessandrea C.; PENN Camryn Elizabeth; GUILLOU Katrina Jacqueline; BRADLEY Leah Parker; MURRAY Megan Jane,8,FALSE,12,12,0.36363636363636365,,OK,,1,0
+2026-10-03,Golf,Men's Individual Stroke Play,Men,DE LOS SANTOS Justin Michael,,17,TRUE,66,25,0.7538461538461538,,,,0,0
+2026-10-03,Golf,Men's Individual Stroke Play,Men,TABUENA Miguel Luis,,29,TRUE,66,25,0.5692307692307692,,,,0,0
+2026-10-03,Golf,Men's Individual Stroke Play,Men,CORPUS Carl Jano,,33,TRUE,66,25,0.5076923076923077,,,,0,0
+2026-10-03,Golf,Men's Team,Men,Philippines,DE LOS SANTOS Justin Michael; CORPUS Carl Jano; TABUENA Miguel Luis,9,FALSE,21,21,0.6,,,,0,0
+2026-10-03,Golf,Women's Individual Stroke Play,Women,MALIXI Rianne Mikaela,,5,TRUE,45,19,0.9090909090909091,,,,1,1
+2026-10-03,Golf,Women's Individual Stroke Play,Women,PAGDANGANAN Bianca Isabel,,15,TRUE,45,19,0.6818181818181818,,,,0,0
+2026-10-03,Golf,Women's Individual Stroke Play,Women,DEL ROSARIO Pauline Beatriz,,44,FALSE,45,19,0.022727272727272728,,,,0,0
+2026-10-03,Golf,Women's Team,Women,Philippines,DEL ROSARIO Pauline Beatriz; PAGDANGANAN Bianca Isabel; MALIXI Rianne Mikaela,7,TRUE,14,14,0.5384615384615384,,,,1,0
+2026-10-01,Jiu Jitsu,Men -62kg,Men,LUZURIAGA Santino Luis,,17,TRUE,28,18,0.4074074074074074,,,,0,0
+2026-10-01,Jiu Jitsu,Men -62kg,Men,MANGUBAT Myron Myles,,17,TRUE,28,18,0.4074074074074074,,,,0,0
+2026-10-01,Jiu Jitsu,Men -69kg,Men,LIM Marc Alexander,,5,TRUE,35,20,0.8823529411764706,,,,1,1
+2026-10-01,Jiu Jitsu,Men -69kg,Men,BALUYO Yman Xavier,,33,TRUE,35,20,0.058823529411764705,,,,0,0
+2026-10-02,Jiu Jitsu,Men -77kg,Men,DY Antonio Luigi,,17,TRUE,25,15,0.3333333333333333,,,,0,0
+2026-10-02,Jiu Jitsu,Men -77kg,Men,VERGEL Mark Constance,,17,TRUE,25,15,0.3333333333333333,,,,0,0
+2026-10-03,Jiu Jitsu,Men -85kg,Men,LUZURIAGA Vito Luis,,17,TRUE,26,16,0.36,,,,0,0
+2026-10-03,Jiu Jitsu,Men -85kg,Men,MIRANDA David,,17,TRUE,26,16,0.36,,,,0,0
+2026-10-02,Jiu Jitsu,Men -94kg,Men,ARELLANO Romeo John Alfred Raphael,,7,TRUE,21,15,0.7,,,,1,0
+2026-10-01,Jiu Jitsu,Women -48kg,Women,CO Jollirine,,9,TRUE,17,9,0.5,,,,0,0
+2026-10-01,Jiu Jitsu,Women -48kg,Women,CUSTODIO Kimberly Anne,,9,TRUE,17,9,0.5,,,,0,0
+2026-10-02,Jiu Jitsu,Women -52kg,Women,NAPOLIS Jenna Kaila,,3,TRUE,17,11,0.875,,,Bronze,1,0
+2026-10-02,Jiu Jitsu,Women -52kg,Women,RAMIREZ Annie,,9,TRUE,17,11,0.5,,,,0,0
+2026-10-03,Jiu Jitsu,Women -63kg,Women,ENRIQUEZ Alexandria Luz,,2,FALSE,23,14,0.9545454545454546,,,Silver,1,0
+2026-10-03,Jiu Jitsu,Women -63kg,Women,LAO Andrea Lois,,5,TRUE,23,14,0.8181818181818182,,,,1,1
+2026-10-02,Judo,Men +100kg,Men,KEDO Eskelen,,9,TRUE,12,12,0.2727272727272727,,,,0,0
+2026-10-02,Judo,Men -100kg,Men,SY Chino,,9,TRUE,11,12,0.2,,,,0,0
+2026-09-30,Judo,Men -60kg,Men,MERCADO Daryl John,,9,TRUE,19,20,0.5555555555555556,,,,0,0
+2026-09-30,Judo,Men -66kg,Men,NAKANO Keisei,,9,TRUE,20,20,0.5789473684210527,,,,0,0
+2026-10-01,Judo,Men -73kg,Men,QUITAIN Gabriel Benedict,,7,TRUE,16,16,0.6,,,,1,0
+2026-10-01,Judo,Women -57kg,Women,RAFAEL Joemari - Heart,,9,TRUE,16,16,0.4666666666666667,,,,0,0
+2026-10-01,Judo,Women -63kg,Women,PABULAYAN Khrizzie,,9,TRUE,10,10,0.1111111111111111,,,,0,0
+2026-10-02,Judo,Women -78kg,Women,WATANABE Kiyomi,,9,TRUE,12,12,0.2727272727272727,,,,0,0
+2026-09-20,Karate,Men's Kumite -60kg,Men,LACHICA John Christian,,11,TRUE,18,18,0.4117647058823529,,,,0,0
+2026-09-22,Karate,Men's Kumite -75kg,Men,BATICAN Alwyn,,5,TRUE,10,10,0.5555555555555556,,,,1,1
+2026-09-20,Karate,Women's Individual Kata,Women,TORRES Rebecca Cyril,,7,TRUE,15,15,0.5714285714285714,,,,1,0
+2026-09-23,Karate,Women's Kumite -50kg,Women,ADRIANO Marie June,,3,TRUE,13,13,0.8333333333333334,,,Bronze,1,0
+2026-09-22,Karate,Women's Team Kata,Women,Philippines,VEGUILLAS Samantha Emmanuelle; ARROGANTE Ysabielle; TORRES Rebecca Cyril,3,TRUE,8,8,0.7142857142857143,,,Bronze,1,0
+2026-09-29,Kurash,Men -66kg,Men,ESCARPE Jackielou,,9,TRUE,18,11,0.5294117647058824,,,,0,0
+2026-09-29,Kurash,Men -66kg,Men,LIGERO Nick Gabriel,,17,TRUE,18,11,0.058823529411764705,,,,0,0
+2026-09-28,Kurash,Men -81kg,Men,BAYAS Czar Augustus,,9,TRUE,12,11,0.2727272727272727,,,,0,0
+2026-09-27,Kurash,Women -57kg,Women,QUELINO Charmea,,5,TRUE,21,12,0.8,,,,1,1
+2026-09-27,Kurash,Women -57kg,Women,LADJAHASAN Myrina,,17,TRUE,21,12,0.2,,,,0,0
+2026-09-28,Kurash,Women -78kg,Women,FAJARDO Margaret,,9,TRUE,12,8,0.2727272727272727,,,,0,0
+2026-09-22,Mixed Martial Arts,Men's Traditional -65kg,Men,SACLAG Jean Claude,,2,FALSE,9,9,0.875,,,Silver,1,0
+2026-09-22,Mixed Martial Arts,Men's Traditional -77kg,Men,ALVAREZ Carlos,,3,TRUE,10,10,0.7777777777777778,,,Bronze,1,0
+2026-09-22,Mixed Martial Arts,Women's Modern -54kg,Women,ARAOS Gina,,6,FALSE,9,9,0.375,,,,1,0
+2026-09-20,Modern Pentathlon,Men's Individual,Men,GERMAN Samuel,,15,FALSE,36,18,0.6,1485,OK,,0,0
+2026-09-20,Modern Pentathlon,Men's Individual,Men,COMALING Michael Ver Anton,,17,FALSE,36,18,0.5428571428571428,1408,OK,,0,0
+2026-09-20,Modern Pentathlon,Men's Individual,Men,ANDRINO Gilbert,,19,FALSE,36,18,0.4857142857142857,1493,OK,,0,0
+2026-09-20,Modern Pentathlon,Men's Individual,Men,GODBOUT Joseph Anthony,,24,FALSE,36,18,0.34285714285714286,1429,OK,,0,0
+2026-09-20,Modern Pentathlon,Men's Team,Men,Philippines,GERMAN Samuel; COMALING Michael Ver Anton; ANDRINO Gilbert,5,FALSE,5,5,0,4386,OK,,1,1
+2026-09-20,Modern Pentathlon,Women's Individual,Women,ARANZADO Shyra Mae,,19,FALSE,33,13,0.4375,1302,OK,,0,0
+2026-09-20,Modern Pentathlon,Women's Individual,Women,SEVILLA Juliana Shane,,20,FALSE,33,13,0.40625,1288,OK,,0,0
+2026-09-20,Modern Pentathlon,Women's Individual,Women,ARBILON Princess Honey,,21,FALSE,33,13,0.375,1286,OK,,0,0
+2026-09-20,Modern Pentathlon,Women's Team,Women,Philippines,ARANZADO Shyra Mae; SEVILLA Juliana Shane; ARBILON Princess Honey,6,FALSE,7,7,0.16666666666666666,3876,OK,,1,0
+2026-10-03,Padel,Men's Pairs,Men,LAPIDUS Jason / CANIZARES Argil,LAPIDUS Jason; CANIZARES Argil,5,TRUE,20,12,0.7894736842105263,,OK,,1,1
+2026-10-03,Padel,Men's Pairs,Men,ALLIAN Abdulqoahar / GULFO Raymark,ALLIAN Abdulqoahar; GULFO Raymark,9,TRUE,20,12,0.5789473684210527,,OK,,0,0
+2026-10-03,Padel,Women's Pairs,Women,ABAD Danna / MALAZARTE Joshea,ABAD Danna; MALAZARTE Joshea,4,FALSE,23,13,0.8636363636363636,,OK,,1,1
+2026-10-03,Padel,Women's Pairs,Women,TAN Tao / CAPADOCIA Marian,TAN Tao; CAPADOCIA Marian,9,TRUE,23,13,0.6363636363636364,,OK,,0,0
+2026-10-03,Rhythmic Gymnastics,Individual All-Around,Women,LABADAN Breanna,,10,FALSE,10,7,0,95.450,OK,,0,0
+2026-09-24,Rowing,Lightweight Men's Single Sculls,Men,ILAS Edgar,,9,FALSE,11,11,0.2,,,,0,0
+2026-09-24,Rowing,Men's Pair,Men,PENAREDONDO Rynjie / MAXILOM Van Adrian,PENAREDONDO Rynjie; MAXILOM Van Adrian,8,FALSE,9,9,0.125,,,,1,0
+2026-09-24,Rowing,Women's Single Sculls,Women,DELGACO Joanie,,6,FALSE,7,7,0.16666666666666666,8:01.63,,,1,0
+2026-10-03,Rugby Sevens,Men,Men,Philippines,HERNANDEZ Edlen; SMITH Luc; BLATTEIS Michael; COLEMAN Donald; STEPHENSON Ned; BLAKE Harrison; FOGERTY Robert; STROEM Kai; SEDDON Hamish; WARREN Charles; BARBERIS Raphael; SORIANO Jacob; SCHIRMER Jason,6,FALSE,12,12,0.5454545454545454,,OK,,1,0
+2026-10-03,Sailing,Boys' Windsurfing,Men,CASTILLO Dhenver John,,4,FALSE,6,6,0.4,,,,1,1
+2026-10-03,Sailing,Girls' Windsurfing,Women,MORENO Kelsy Loryn,,6,FALSE,6,6,0,,,,1,0
+2026-10-02,Sailing,Men's Windsurfing,Men,MADRIGAL John Harold,,6,FALSE,6,6,0,,,,1,0
+2026-10-02,Sailing,Mixed Dinghy,Mixed,Philippines,VILLAPANA Edgar; FERRER Coleen Jem,6,FALSE,9,9,0.375,,,,1,0
+2026-10-02,Sailing,Women's Windsurfing,Women,PAZ Arrianne,,5,FALSE,7,7,0.3333333333333333,,,,1,1
+2026-10-03,Sailing,Youth Mixed Dinghy,Mixed,Philippines,CASTILLO Ronello Ill; ALBO Khim Ashley,6,FALSE,6,6,0,,,,1,0
+2026-09-29,Sepaktakraw,Men's Regu,Men,Philippines,HUERTE Jason; RAFAEL Jom Lerry; ASILUM Reynaldo Jr.; PHORI Glindel; GABAYERON Ronsited,3,TRUE,4,4,0.3333333333333333,,,Bronze,1,0
+2026-09-29,Sepaktakraw,Women's Double,Women,Philippines,SALON Nelly Jay; SUCALIT Jean Marie; SINOGBUHAN Abegail,2,FALSE,4,4,0.6666666666666666,,,Silver,1,0
+2026-09-24,Shooting,10m Air Pistol Men Individual,Men,VALDEZ Carlo Deniel,,31,TRUE,60,24,0.4915254237288136,,,,0,0
+2026-09-24,Shooting,10m Air Pistol Men Individual,Men,FERNANDEZ Michael Angelo,,36,TRUE,60,24,0.4067796610169492,,,,0,0
+2026-09-24,Shooting,10m Air Pistol Men Individual,Men,POBLETE Timothy John,,58,FALSE,60,24,0.03389830508474576,,,,0,0
+2026-09-24,Shooting,10m Air Pistol Men Team,Men,Philippines,POBLETE Timothy John; FERNANDEZ Michael Angelo; VALDEZ Carlo Deniel,13,TRUE,15,15,0.14285714285714285,1691,,,0,0
+2026-09-25,Shooting,10m Air Pistol Mixed Team,Mixed,Philippines,FERNANDEZ Michael Angelo; QUIROZ Franchette Shayne,17,TRUE,21,21,0.2,,,,0,0
+2026-09-23,Shooting,10m Air Pistol Women Individual,Women,QUIROZ Franchette Shayne,,44,TRUE,55,25,0.2037037037037037,,,,0,0
+2026-09-21,Shooting,10m Air Rifle Men Individual,Men,VALDEZ Jayson,,35,TRUE,46,19,0.24444444444444444,,,,0,0
+2026-09-20,Shooting,10m Air Rifle Women Individual,Women,ACUNA Amparo Teresa,,42,FALSE,56,21,0.2545454545454545,,,,0,0
+2026-09-28,Shooting,25m Pistol Women Individual,Women,QUIROZ Franchette Shayne,,35,TRUE,44,18,0.20930232558139536,,,,0,0
+2026-09-25,Shooting,50m Rifle 3 Positions Men Individual,Men,VALDEZ Jayson,,39,TRUE,39,17,0,,,,0,0
+2026-09-26,Shooting,50m Rifle 3 Positions Women Individual,Women,ACUNA Amparo Teresa,,31,TRUE,45,19,0.3181818181818182,,,,0,0
+2026-09-23,Shooting,Skeet Men Individual,Men,ENRIQUEZ Enrique Leandro,,35,TRUE,43,21,0.19047619047619047,,,,0,0
+2026-09-29,Shooting,Trap Men Individual,Men,TOPACIO Hagen Alexander,,25,TRUE,40,19,0.38461538461538464,,,,0,0
+2026-09-29,Shooting,Trap Men Individual,Men,ANG Eric,,29,TRUE,40,19,0.28205128205128205,,,,0,0
+2026-09-29,Shooting,Trap Men Individual,Men,JAVINES Antonio Joseph,,30,TRUE,40,19,0.2564102564102564,,,,0,0
+2026-09-29,Shooting,Trap Men Team,Men,Philippines,TOPACIO Hagen Alexander; ANG Eric; JAVINES Antonio Joseph,8,TRUE,10,10,0.2222222222222222,328,,,1,0
+2026-09-25,Skateboarding,Men's Park,Men,FRANCISCO Jericho,,4,TRUE,13,8,0.75,84.41,,,1,1
+2026-09-27,Skateboarding,Men's Street,Men,FELICIANO Mark,,9,TRUE,17,9,0.5,,,,0,0
+2026-09-27,Skateboarding,Men's Street,Men,GELIG Renz,,10,TRUE,17,9,0.4375,,,,0,0
+2026-09-25,Skateboarding,Women's Park,Women,PARIS Mazel,,5,FALSE,14,8,0.6923076923076923,80.65,,,1,1
+2026-09-25,Skateboarding,Women's Park,Women,AMADOR Elizabeth,,9,FALSE,14,8,0.38461538461538464,,,,0,0
+2026-09-23,Soft Tennis,Men's Singles,Men,NUGUIT Sherwin,,5,TRUE,22,11,0.8095238095238095,,OK,,1,1
+2026-09-23,Soft Tennis,Men's Singles,Men,ARCILLA Joseph,,,FALSE,22,11,0,,OK,,0,0
+2026-09-20,Soft Tennis,Men's Team,Men,Philippines,TALATAYOD Dheo; NUGUIT Sherwin; NUGUIT Samuel; ALCOSEBA Mark; ARCILLA Joseph,5,TRUE,11,11,0.6,,OK,,1,1
+2026-09-21,Soft Tennis,Mixed Doubles,Mixed,SANOSA Christy / NUGUIT Sherwin Ray,SANOSA Christy; NUGUIT Sherwin,5,TRUE,19,11,0.7777777777777778,,OK,,1,1
+2026-09-21,Soft Tennis,Mixed Doubles,Mixed,MANALAC Noelle / NUGUIT Samuel,MANALAC Noelle; NUGUIT Samuel,9,TRUE,19,11,0.5555555555555556,,OK,,0,0
+2026-09-23,Soft Tennis,Women's Singles,Women,CATINDIG Princess,,,FALSE,23,13,0,,OK,,0,0
+2026-09-23,Soft Tennis,Women's Singles,Women,SANOSA Christy,,,FALSE,23,13,0,,OK,,0,0
+2026-09-20,Soft Tennis,Women's Team,Women,Philippines,CATINDIG Princess; MANALAC Noelle; SANOSA Christy; SALAZAR Shyryn; PAAS Hilary,3,FALSE,8,8,0.7142857142857143,,OK,Bronze,1,0
+2026-10-03,Softball,Softball Women,Women,Philippines,ELLAZAR Skylynne Kopia; MAGBANUA Ma. Victoria; ALTOMONTE Francesca; CRUZ Roma Jane; TUBONGBANUA Mea; VILLAMIN Reyae Mae; HAMMOUDE Nicole Adra; PALMA Royevel; GABRIEL Ma. Angelu; LAURENTE Mary Joy; VITANGCOL Sydney Lynn; ALPITCHE Mary Joy; DANIELL Alyssa Marie; LIBATON Mary Jane; ALONZO Glory; SALES Ma. Charlotte Narces; PEREZ Mylia Isabel,4,FALSE,8,8,0.5714285714285714,,,,1,1
+2026-09-27,Squash,Men's Singles,Men,BEGORNIA Reymark,,17,FALSE,33,19,0.5,,OK,,0,0
+2026-09-27,Squash,Men's Singles,Men,DALIDA Van - Aero,,17,TRUE,33,19,0.5,,OK,,0,0
+2026-10-02,Squash,Men's Team,Men,Philippines,BEGORNIA Reymark; PELINO David; REYES Jonathan; DALIDA Van - Aero,9,TRUE,12,12,0.2727272727272727,,OK,,0,0
+2026-09-27,Squash,Mixed Doubles,Mixed,PELINO David / ARIBADO Jemyca,PELINO David; ARIBADO Jemyca,5,TRUE,20,11,0.7894736842105263,,OK,,1,1
+2026-09-27,Squash,Mixed Doubles,Mixed,DALIDA Yvonne / REYES Jonathan,DALIDA Yvonne; REYES Jonathan,9,TRUE,20,11,0.5789473684210527,,OK,,0,0
+2026-09-29,Surfing,Men's Shortboard,Men,ALCISO Jayuard,,3,FALSE,23,14,0.9090909090909091,11.64,,Bronze,1,0
+2026-09-29,Surfing,Men's Shortboard,Men,ESPEJON Toby,,4,FALSE,23,14,0.8636363636363636,8.90,,,1,1
+2026-09-29,Surfing,Women's Shortboard,Women,ESPANOLA Juralyn,,5,TRUE,21,12,0.8,6.64,,,1,1
+2026-09-29,Surfing,Women's Shortboard,Women,BLANCADA Nilbie,,9,TRUE,21,12,0.6,10.00,,,0,0
+2026-09-23,Swimming,Men's 100m Butterfly,Men,NOGUCHI Logan,,16,FALSE,31,23,0.5,54.57,OK,,0,0
+2026-09-20,Swimming,Men's 100m Freestyle,Men,NOGUCHI Logan,,20,FALSE,43,27,0.5476190476190477,50.61,OK,,0,0
+2026-09-24,Swimming,Men's 200m Breaststroke,Men,SANTOS Gian,,14,FALSE,23,17,0.4090909090909091,2:14.89,OK,,0,0
+2026-09-23,Swimming,Men's 200m Freestyle,Men,SANTOS Gian,,10,FALSE,31,18,0.7,1:49.80,OK,,0,0
+2026-09-20,Swimming,Men's 200m Individual Medley,Men,SANTOS Gian,,12,FALSE,29,19,0.6071428571428571,2:02.20,OK,,0,0
+2026-09-25,Swimming,Men's 400m Freestyle,Men,SANTOS Gian,,12,FALSE,28,20,0.5925925925925926,3:56.27,OK,,0,0
+2026-09-22,Swimming,Men's 400m Individual Medley,Men,SANTOS Gian,,10,FALSE,23,16,0.5909090909090909,4:25.90,OK,,0,0
+2026-09-24,Swimming,Men's 50m Butterfly,Men,NOGUCHI Logan,,18,FALSE,44,29,0.6046511627906976,24.56,OK,,0,0
+2026-09-21,Swimming,Men's 50m Freestyle,Men,NOGUCHI Logan,,23,FALSE,47,31,0.5217391304347826,23.08,OK,,0,0
+2026-09-23,Swimming,Mixed 4 x 100m Medley Relay,Mixed,Philippines,WHITE Heather; SANTOS Gian; SALVINO Teia; NOGUCHI Logan,7,FALSE,13,14,0.5,3:56.26,OK,,1,0
+2026-09-23,Swimming,Women's 100m Butterfly,Women,SALVINO Teia,,12,FALSE,21,14,0.45,1:00.79,OK,,0,0
+2026-09-22,Swimming,Women's 100m Freestyle,Women,SANCHEZ Kayla,,4,FALSE,35,23,0.9117647058823529,53.65,OK,,1,1
+2026-09-22,Swimming,Women's 100m Freestyle,Women,WHITE Heather,,10,FALSE,35,23,0.7352941176470589,56.01,OK,,0,0
+2026-09-22,Swimming,Women's 200m Backstroke,Women,CHUA Xiandi,,8,FALSE,21,15,0.65,2:14.20,OK,,1,0
+2026-09-21,Swimming,Women's 200m Individual Medley,Women,CHUA Xiandi,,7,FALSE,21,14,0.7,2:16.02,OK,,1,0
+2026-09-20,Swimming,Women's 4 x 100m Freestyle Relay,Women,Philippines,SANCHEZ Kayla; SALVINO Teia; WHITE Heather; CHUA Xiandi,,FALSE,10,10,0,,DSQ,,0,0
+2026-09-23,Swimming,Women's 400m Individual Medley,Women,CHUA Xiandi,,9,FALSE,14,10,0.38461538461538464,4:53.19,OK,,0,0
+2026-09-21,Swimming,Women's 50m Backstroke,Women,SANCHEZ Kayla,,5,TRUE,31,18,0.8666666666666667,28.19,OK,,1,1
+2026-09-21,Swimming,Women's 50m Backstroke,Women,SALVINO Teia,,10,FALSE,31,18,0.7,29.02,OK,,0,0
+2026-09-25,Swimming,Women's 50m Butterfly,Women,WHITE Heather,,15,FALSE,27,19,0.46153846153846156,27.62,OK,,0,0
+2026-09-24,Swimming,Women's 50m Freestyle,Women,SANCHEZ Kayla,,4,FALSE,35,24,0.9117647058823529,24.75,OK,,1,1
+2026-09-24,Swimming,Women's 50m Freestyle,Women,WHITE Heather,,12,FALSE,35,24,0.6764705882352942,25.90,OK,,0,0
+2026-10-02,Taekwondo,Men -58kg,Men,BARBOSA Kurt Bryan,,2,FALSE,16,16,0.9333333333333333,,,Silver,1,0
+2026-10-02,Taekwondo,Men -80kg,Men,CEA Dave,,9,TRUE,15,16,0.42857142857142855,,,,0,0
+2026-10-01,Taekwondo,Men Individual Poomsae,Men,YAPE Jeus Gabriel Derick,,3,TRUE,15,15,0.8571428571428571,,,Bronze,1,0
+2026-10-02,Taekwondo,Mixed Individual Virtual Taekwondo,Open,YAPE Jeus Gabriel Derick,,1,FALSE,16,15,1,,,Gold,1,0
+2026-10-02,Taekwondo,Women -49kg,Women,MANGIN Tachiana Keizha,,2,FALSE,15,16,0.9285714285714286,,,Silver,1,0
+2026-10-03,Taekwondo,Women -57kg,Women,CANABAL Baby Jessica,,5,TRUE,15,15,0.7142857142857143,,,,1,1
+2026-10-02,Taekwondo,Women -67kg,Women,DELO Laila,,9,TRUE,15,15,0.42857142857142855,,,,0,0
+2026-10-01,Taekwondo,Women Individual Poomsae,Women,CANDELARIA Juliana Mykhail,,2,FALSE,16,16,0.9333333333333333,,,Silver,1,0
+2026-10-03,Tennis,Mixed Doubles,Mixed,RIVERA Shaira / ALCANTARA Francis,RIVERA Shaira; ALCANTARA Francis,9,TRUE,30,16,0.7241379310344828,,OK,,0,0
+2026-10-03,Tennis,Women's Doubles,Women,EALA Alexandra / RIVERA Shaira,EALA Alexandra; RIVERA Shaira,9,TRUE,26,16,0.68,,OK,,0,0
+2026-10-03,Tennis,Women's Doubles,Women,ALUDO Stefi / MADIS Tennielle,ALUDO Stefi; MADIS Tennielle,9,TRUE,26,16,0.68,,OK,,0,0
+2026-10-02,Tennis,Women's Singles,Women,EALA Alexandra,,3,TRUE,30,15,0.9310344827586207,,OK,Bronze,1,0
+2026-10-02,Tennis,Women's Singles,Women,MADIS Tennielle,,17,TRUE,30,15,0.4482758620689655,,OK,,0,0
+2026-09-20,Teqball,Men's Doubles,Men,MONTENEGRO Dailan Christoffe / PACIS Anel Jr,MONTENEGRO Dailan Christoffe; PACIS Anel Jr,9,FALSE,12,12,0.2727272727272727,,OK,,0,0
+2026-09-20,Teqball,Men's Singles,Men,AGUSTIN Prince,,5,TRUE,11,11,0.6,,OK,,1,1
+2026-09-20,Teqball,Mixed Doubles,Mixed,ABULENCIA Jhoana / AGUSTIN Prince,ABULENCIA Jhoana; AGUSTIN Prince,7,TRUE,11,11,0.4,,OK,,1,0
+2026-09-27,Trampoline Gymnastics,Men,Men,ILANO Jerry Jr.,,11,FALSE,12,7,0.09090909090909091,,OK,,0,0
+2026-09-27,Trampoline Gymnastics,Women,Women,PADILLA Luvicar Janine,,10,FALSE,10,6,0,,OK,,0,0
+2026-09-20,Triathlon,Men's Individual,Men,CASARES Fernando Jose,,10,FALSE,33,20,0.71875,54:58,OK,,0,0
+2026-09-20,Triathlon,Men's Individual,Men,LORBES Inaki Emil,,18,FALSE,33,20,0.46875,56:44,OK,,0,0
+2026-09-21,Triathlon,Mixed Relay,Mixed,Philippines,ALCOSEBA Raven Faith; REMOLINO Andrew Kim; MANGROBANG Marion Kim; CASARES Fernando Jose,9,FALSE,14,14,0.38461538461538464,1:32:56,OK,,0,0
+2026-09-20,Triathlon,Women's Individual,Women,ALCOSEBA Raven Faith,,9,FALSE,28,16,0.7037037037037037,1:00:07,OK,,0,0
+2026-09-20,Triathlon,Women's Individual,Women,MANGROBANG Marion Kim,,20,FALSE,28,16,0.2962962962962963,1:07:23,OK,,0,0
+2026-10-03,Volleyball,Men,Men,Philippines,RETAMAR Ave Joshua; BAGUNAS Bryan; YBANEZ Josh; ORDIALES Leo; TAGUIBOLOS Rwenzmel; JOSAFAT Lloyd; BUDDIN Michaelo; ESPEJO Marck Jesus; VILLADOS Adrian; MENDOZA Lirick John; GARCIA Jude; MAGALAMAN Joshua,13,FALSE,16,16,0.2,,,,0,0
+2026-09-22,Volleyball,Women,Women,Philippines,NITURA Shaina Marie; BELEN Mhicaela; LAURE Ejiya; de GUZMAN Julia Melissa; CANINO Angel Anne; PALOMATA Dell; SOLOMON Alyssa Jae; PROVIDO Amie; GAGATE Thea Allison; ALBA Marionne Angelique; JAZARENO Ylizyeth Justine; YTANG Nina,9,FALSE,14,14,0.38461538461538464,,,,0,0
+2026-09-24,Weightlifting,Men's 60kg,Men,LIMMONG Eleaphraime,,,FALSE,11,11,0,,DNF,,0,0
+2026-09-26,Weightlifting,Men's 70kg,Men,DELOS SANTOS Albert Ian,,3,FALSE,9,9,0.75,324,,Bronze,1,0
+2026-09-23,Weightlifting,Women's 53kg,Women,RAMOS Rosegie,,4,FALSE,13,13,0.75,203,,,1,1
+2026-09-25,Weightlifting,Women's 61kg,Women,ANDO Elreen Ann,,5,FALSE,12,12,0.6363636363636364,224,,,1,1
+2026-09-27,Weightlifting,Women's 69kg,Women,MACROHON Kristel,,4,FALSE,10,10,0.6666666666666666,227,,,1,1
+2026-10-03,Wrestling,Men's Freestyle 57kg,Men,GASO Edmund,,20,FALSE,21,21,0.05,,,,0,0
+2026-10-01,Wrestling,Men's Greco-Roman 60kg,Men,CALLADO Joe Fer,,13,FALSE,14,14,0.07692307692307693,,,,0,0
+2026-10-01,Wrestling,Men's Greco-Roman 77kg,Men,BAUCAS Jason,,14,FALSE,14,14,0,,,,0,0
+2026-09-30,Wrestling,Men's Greco-Roman 87kg,Men,ROBERTS Callum Johnston,,5,TRUE,12,12,0.6363636363636364,,,,1,1
+2026-10-02,Wrestling,Women's Wrestling 50kg,Women,GAVALEZ Aliah Rose,,11,FALSE,13,13,0.16666666666666666,,,,0,0
+2026-10-03,Wrestling,Women's Wrestling 53kg,Women,CERVANTES Rea Grace,,10,FALSE,11,11,0.1,,,,0,0
+2026-10-03,Wrestling,Women's Wrestling 57kg,Women,BALISME Miriam Grace,,14,FALSE,14,14,0,,,,0,0
+2026-09-24,Wushu,Men's 56kg,Men,BAYLON Carlos Jr.,,9,TRUE,12,12,0.2727272727272727,,OK,,0,0
+2026-09-24,Wushu,Men's 60kg,Men,PADUA Gideon Fred,,5,TRUE,11,11,0.6,,OK,,1,1
+2026-09-24,Wushu,Men's 65kg,Men,ALIPIO Xander,,5,TRUE,17,17,0.75,,OK,,1,1
+2026-09-20,Wushu,Men's Changquan,Men,GAINSAN Sandrex,,10,FALSE,21,18,0.55,9.690,,,0,0
+2026-09-20,Wushu,Men's Changquan,Men,POLO Mark Anthony,,18,FALSE,21,18,0.15,9.206,,,0,0
+2026-09-23,Wushu,Men's Daoshu & Gunshu,Men,RAGAY Mark Lester,,5,FALSE,10,10,0.5555555555555556,19.370,,,1,1
+2026-09-21,Wushu,Men's Taijiquan & Taijijian,Men,INSO Jones Llabres,,6,FALSE,15,13,0.6428571428571429,19.403,,,1,0
+2026-09-21,Wushu,Men's Taijiquan & Taijijian,Men,DE LOS REYES Alexander Gabriel,,9,FALSE,15,13,0.42857142857142855,19.372,,,0,0
+2026-09-24,Wushu,Women's 52kg,Women,KILAPIO Jenifer,,9,TRUE,15,15,0.42857142857142855,,OK,,0,0
+2026-09-20,Wushu,Women's Taijiquan & Taijijian,Women,WONG Agatha Chrystenzen,,10,FALSE,13,12,0.25,18.859,,,0,0

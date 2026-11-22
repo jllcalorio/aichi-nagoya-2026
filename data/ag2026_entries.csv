@@ -1,0 +1,1149 @@
+country_code,country,sport_code,sport,athletes_men,athletes_women,athletes_total
+AFG,Afghanistan,ARC,Archery,0,1,1
+AFG,Afghanistan,ATH,Athletics,0,1,1
+AFG,Afghanistan,BOX,Boxing,3,1,4
+AFG,Afghanistan,CKT,Cricket,15,0,15
+AFG,Afghanistan,CRD,Cycling Road,0,3,3
+AFG,Afghanistan,JJI,Jiu Jitsu,3,1,4
+AFG,Afghanistan,JUD,Judo,2,0,2
+AFG,Afghanistan,KTE,Karate,1,0,1
+AFG,Afghanistan,KUR,Kurash,3,0,3
+AFG,Afghanistan,SRF,Surfing,1,0,1
+AFG,Afghanistan,SWM,Swimming,2,0,2
+AFG,Afghanistan,TKW,Taekwondo,2,0,2
+AFG,Afghanistan,TRI,Triathlon,1,0,1
+AFG,Afghanistan,WRE,Wrestling,2,0,2
+AFG,Afghanistan,WSU,Wushu,4,0,4
+ART,Asian Refugee Team,TKW,Taekwondo,1,1,2
+BRN,Bahrain,BK3,3x3 Basketball,4,0,4
+BRN,Bahrain,ATH,Athletics,15,14,29
+BRN,Bahrain,BDM,Badminton,1,0,1
+BRN,Bahrain,BKB,Basketball,12,0,12
+BRN,Bahrain,BOX,Boxing,4,1,5
+BRN,Bahrain,CRD,Cycling Road,1,0,1
+BRN,Bahrain,EQU,Equestrian,0,2,2
+BRN,Bahrain,ELS,Esports,11,0,11
+BRN,Bahrain,HBL,Handball,16,0,16
+BRN,Bahrain,JJI,Jiu Jitsu,2,0,2
+BRN,Bahrain,JUD,Judo,5,0,5
+BRN,Bahrain,KUR,Kurash,1,0,1
+BRN,Bahrain,MMA,Mixed Martial Arts,3,1,4
+BRN,Bahrain,SHO,Shooting,2,4,6
+BRN,Bahrain,SWM,Swimming,5,4,9
+BRN,Bahrain,TTE,Table Tennis,4,0,4
+BRN,Bahrain,TKW,Taekwondo,0,2,2
+BRN,Bahrain,TRI,Triathlon,1,0,1
+BRN,Bahrain,WLF,Weightlifting,2,2,4
+BRN,Bahrain,WRE,Wrestling,5,0,5
+BAN,Bangladesh,ARC,Archery,6,6,12
+BAN,Bangladesh,GAR,Artistic Gymnastics,1,0,1
+BAN,Bangladesh,ATH,Athletics,1,1,2
+BAN,Bangladesh,BDM,Badminton,4,1,5
+BAN,Bangladesh,VBV,Beach Volleyball,2,2,4
+BAN,Bangladesh,BOX,Boxing,2,0,2
+BAN,Bangladesh,CKT,Cricket,14,15,29
+BAN,Bangladesh,CRD,Cycling Road,2,0,2
+BAN,Bangladesh,FEN,Fencing,3,0,3
+BAN,Bangladesh,FBL,Football,0,23,23
+BAN,Bangladesh,GLF,Golf,3,0,3
+BAN,Bangladesh,HOC,Hockey,18,18,36
+BAN,Bangladesh,JUD,Judo,2,2,4
+BAN,Bangladesh,KAB,Kabaddi,12,12,24
+BAN,Bangladesh,KTE,Karate,2,2,4
+BAN,Bangladesh,SHO,Shooting,7,5,12
+BAN,Bangladesh,SRF,Surfing,1,1,2
+BAN,Bangladesh,SWM,Swimming,1,1,2
+BAN,Bangladesh,TTE,Table Tennis,3,3,6
+BAN,Bangladesh,WLF,Weightlifting,1,3,4
+BAN,Bangladesh,WRE,Wrestling,2,0,2
+BAN,Bangladesh,WSU,Wushu,2,2,4
+BHU,Bhutan,ARC,Archery,6,1,7
+BHU,Bhutan,ATH,Athletics,2,0,2
+BHU,Bhutan,BOX,Boxing,2,1,3
+BHU,Bhutan,TKW,Taekwondo,0,1,1
+BRU,Brunei Darussalam,KTE,Karate,1,0,1
+BRU,Brunei Darussalam,WSU,Wushu,4,1,5
+CAM,Cambodia,ATH,Athletics,2,1,3
+CAM,Cambodia,BOX,Boxing,2,0,2
+CAM,Cambodia,ELS,Esports,6,0,6
+CAM,Cambodia,JJI,Jiu Jitsu,5,0,5
+CAM,Cambodia,JUD,Judo,3,0,3
+CAM,Cambodia,KTE,Karate,5,5,10
+CAM,Cambodia,MMA,Mixed Martial Arts,1,1,2
+CAM,Cambodia,SAL,Sailing,1,0,1
+CAM,Cambodia,TST,Soft Tennis,5,5,10
+CAM,Cambodia,SWM,Swimming,3,1,4
+CAM,Cambodia,TKW,Taekwondo,1,1,2
+CAM,Cambodia,TEQ,Teqball,1,3,4
+CAM,Cambodia,TRI,Triathlon,0,1,1
+CAM,Cambodia,WRE,Wrestling,3,2,5
+CHN,China,BK3,3x3 Basketball,4,4,8
+CHN,China,ARC,Archery,6,6,12
+CHN,China,GAR,Artistic Gymnastics,5,5,10
+CHN,China,SWA,Artistic Swimming,1,9,10
+CHN,China,ATH,Athletics,36,34,70
+CHN,China,BDM,Badminton,10,10,20
+CHN,China,BBL,Baseball,24,0,24
+CHN,China,BKB,Basketball,12,12,24
+CHN,China,VBV,Beach Volleyball,4,4,8
+CHN,China,BOX,Boxing,6,5,11
+CHN,China,BKG,Breaking,2,2,4
+CHN,China,CSL,Canoe Slalom,3,3,6
+CHN,China,CSP,Canoe Sprint,7,8,15
+CHN,China,CKT,Cricket,0,15,15
+CHN,China,BMF,Cycling BMX Freestyle,2,2,4
+CHN,China,BMX,Cycling BMX Racing,2,2,4
+CHN,China,MTB,Cycling Mountain Bike,2,2,4
+CHN,China,CRD,Cycling Road,4,3,7
+CHN,China,CTR,Cycling Track,9,9,18
+CHN,China,DIV,Diving,6,6,12
+CHN,China,EQU,Equestrian,3,4,7
+CHN,China,ELS,Esports,22,1,23
+CHN,China,FEN,Fencing,11,12,23
+CHN,China,FBL,Football,23,23,46
+CHN,China,GLF,Golf,3,3,6
+CHN,China,HBL,Handball,16,16,32
+CHN,China,HOC,Hockey,18,20,38
+CHN,China,JUD,Judo,7,6,13
+CHN,China,KTE,Karate,0,2,2
+CHN,China,MPN,Modern Pentathlon,4,4,8
+CHN,China,GRY,Rhythmic Gymnastics,0,7,7
+CHN,China,ROW,Rowing,13,13,26
+CHN,China,RU7,Rugby Sevens,13,13,26
+CHN,China,SAL,Sailing,5,5,10
+CHN,China,SHO,Shooting,15,15,30
+CHN,China,SKB,Skateboarding,4,4,8
+CHN,China,SBL,Softball,0,17,17
+CHN,China,CLB,Sport Climbing,4,4,8
+CHN,China,SQU,Squash,4,4,8
+CHN,China,SRF,Surfing,2,2,4
+CHN,China,SWM,Swimming,24,26,50
+CHN,China,TTE,Table Tennis,5,5,10
+CHN,China,TKW,Taekwondo,4,4,8
+CHN,China,TEN,Tennis,5,5,10
+CHN,China,GTR,Trampoline Gymnastics,2,2,4
+CHN,China,TRI,Triathlon,3,2,5
+CHN,China,VVO,Volleyball,12,12,24
+CHN,China,WPO,Water Polo,15,15,30
+CHN,China,WLF,Weightlifting,5,5,10
+CHN,China,WRE,Wrestling,12,6,18
+CHN,China,WSU,Wushu,7,5,12
+TPE,Chinese Taipei,BK3,3x3 Basketball,4,4,8
+TPE,Chinese Taipei,ARC,Archery,6,6,12
+TPE,Chinese Taipei,GAR,Artistic Gymnastics,5,5,10
+TPE,Chinese Taipei,ATH,Athletics,21,15,36
+TPE,Chinese Taipei,BDM,Badminton,10,10,20
+TPE,Chinese Taipei,BBL,Baseball,24,0,24
+TPE,Chinese Taipei,BKB,Basketball,12,12,24
+TPE,Chinese Taipei,BOX,Boxing,3,4,7
+TPE,Chinese Taipei,BKG,Breaking,2,2,4
+TPE,Chinese Taipei,CSL,Canoe Slalom,3,3,6
+TPE,Chinese Taipei,CSP,Canoe Sprint,4,0,4
+TPE,Chinese Taipei,BMF,Cycling BMX Freestyle,1,0,1
+TPE,Chinese Taipei,MTB,Cycling Mountain Bike,0,1,1
+TPE,Chinese Taipei,CRD,Cycling Road,1,1,2
+TPE,Chinese Taipei,CTR,Cycling Track,6,6,12
+TPE,Chinese Taipei,DIV,Diving,0,2,2
+TPE,Chinese Taipei,EQU,Equestrian,5,3,8
+TPE,Chinese Taipei,ELS,Esports,33,1,34
+TPE,Chinese Taipei,FEN,Fencing,8,0,8
+TPE,Chinese Taipei,FBL,Football,0,23,23
+TPE,Chinese Taipei,GLF,Golf,3,3,6
+TPE,Chinese Taipei,HOC,Hockey,0,18,18
+TPE,Chinese Taipei,JJI,Jiu Jitsu,1,1,2
+TPE,Chinese Taipei,JUD,Judo,4,6,10
+TPE,Chinese Taipei,KAB,Kabaddi,12,12,24
+TPE,Chinese Taipei,KTE,Karate,5,5,10
+TPE,Chinese Taipei,KUR,Kurash,3,4,7
+TPE,Chinese Taipei,MMA,Mixed Martial Arts,2,1,3
+TPE,Chinese Taipei,GRY,Rhythmic Gymnastics,0,5,5
+TPE,Chinese Taipei,ROW,Rowing,0,3,3
+TPE,Chinese Taipei,SAL,Sailing,1,0,1
+TPE,Chinese Taipei,SHO,Shooting,6,12,18
+TPE,Chinese Taipei,SKB,Skateboarding,1,1,2
+TPE,Chinese Taipei,TST,Soft Tennis,5,5,10
+TPE,Chinese Taipei,SBL,Softball,0,17,17
+TPE,Chinese Taipei,SRF,Surfing,0,2,2
+TPE,Chinese Taipei,SWM,Swimming,10,5,15
+TPE,Chinese Taipei,TTE,Table Tennis,5,5,10
+TPE,Chinese Taipei,TKW,Taekwondo,4,5,9
+TPE,Chinese Taipei,TEN,Tennis,5,6,11
+TPE,Chinese Taipei,TRI,Triathlon,2,2,4
+TPE,Chinese Taipei,VVO,Volleyball,12,12,24
+TPE,Chinese Taipei,WLF,Weightlifting,5,5,10
+TPE,Chinese Taipei,WRE,Wrestling,0,4,4
+TPE,Chinese Taipei,WSU,Wushu,6,4,10
+PRK,DPR Korea,GAR,Artistic Gymnastics,0,5,5
+PRK,DPR Korea,ATH,Athletics,3,2,5
+PRK,DPR Korea,BDM,Badminton,0,2,2
+PRK,DPR Korea,BOX,Boxing,2,4,6
+PRK,DPR Korea,CSP,Canoe Sprint,0,2,2
+PRK,DPR Korea,DIV,Diving,0,3,3
+PRK,DPR Korea,FBL,Football,22,23,45
+PRK,DPR Korea,JUD,Judo,1,3,4
+PRK,DPR Korea,KTE,Karate,0,1,1
+PRK,DPR Korea,SHO,Shooting,3,3,6
+PRK,DPR Korea,TST,Soft Tennis,0,2,2
+PRK,DPR Korea,TTE,Table Tennis,2,4,6
+PRK,DPR Korea,WLF,Weightlifting,5,5,10
+PRK,DPR Korea,WRE,Wrestling,3,5,8
+HKG,"Hong Kong, China",BK3,3x3 Basketball,4,0,4
+HKG,"Hong Kong, China",ARC,Archery,1,3,4
+HKG,"Hong Kong, China",GAR,Artistic Gymnastics,1,2,3
+HKG,"Hong Kong, China",SWA,Artistic Swimming,0,10,10
+HKG,"Hong Kong, China",ATH,Athletics,18,20,38
+HKG,"Hong Kong, China",BDM,Badminton,10,10,20
+HKG,"Hong Kong, China",BBL,Baseball,24,0,24
+HKG,"Hong Kong, China",BKB,Basketball,0,12,12
+HKG,"Hong Kong, China",VBV,Beach Volleyball,4,4,8
+HKG,"Hong Kong, China",BKG,Breaking,1,0,1
+HKG,"Hong Kong, China",CSP,Canoe Sprint,4,0,4
+HKG,"Hong Kong, China",CKT,Cricket,15,0,15
+HKG,"Hong Kong, China",BMX,Cycling BMX Racing,0,1,1
+HKG,"Hong Kong, China",MTB,Cycling Mountain Bike,1,2,3
+HKG,"Hong Kong, China",CRD,Cycling Road,3,3,6
+HKG,"Hong Kong, China",CTR,Cycling Track,9,6,15
+HKG,"Hong Kong, China",DIV,Diving,2,2,4
+HKG,"Hong Kong, China",EQU,Equestrian,2,7,9
+HKG,"Hong Kong, China",ELS,Esports,40,3,43
+HKG,"Hong Kong, China",FEN,Fencing,12,12,24
+HKG,"Hong Kong, China",FBL,Football,23,23,46
+HKG,"Hong Kong, China",GLF,Golf,3,3,6
+HKG,"Hong Kong, China",HBL,Handball,16,16,32
+HKG,"Hong Kong, China",JUD,Judo,3,3,6
+HKG,"Hong Kong, China",KTE,Karate,5,3,8
+HKG,"Hong Kong, China",MPN,Modern Pentathlon,1,1,2
+HKG,"Hong Kong, China",PDL,Padel,4,4,8
+HKG,"Hong Kong, China",GRY,Rhythmic Gymnastics,0,1,1
+HKG,"Hong Kong, China",ROW,Rowing,10,9,19
+HKG,"Hong Kong, China",RU7,Rugby Sevens,13,13,26
+HKG,"Hong Kong, China",SAL,Sailing,8,8,16
+HKG,"Hong Kong, China",SHO,Shooting,1,1,2
+HKG,"Hong Kong, China",SKB,Skateboarding,2,3,5
+HKG,"Hong Kong, China",SBL,Softball,0,17,17
+HKG,"Hong Kong, China",CLB,Sport Climbing,4,4,8
+HKG,"Hong Kong, China",SQU,Squash,4,4,8
+HKG,"Hong Kong, China",SWM,Swimming,19,15,34
+HKG,"Hong Kong, China",TTE,Table Tennis,5,5,10
+HKG,"Hong Kong, China",TKW,Taekwondo,2,4,6
+HKG,"Hong Kong, China",TEN,Tennis,6,6,12
+HKG,"Hong Kong, China",GTR,Trampoline Gymnastics,2,2,4
+HKG,"Hong Kong, China",TRI,Triathlon,2,3,5
+HKG,"Hong Kong, China",VVO,Volleyball,12,12,24
+HKG,"Hong Kong, China",WPO,Water Polo,15,0,15
+HKG,"Hong Kong, China",WLF,Weightlifting,1,1,2
+HKG,"Hong Kong, China",WRE,Wrestling,2,0,2
+HKG,"Hong Kong, China",WSU,Wushu,6,4,10
+IRI,IR Iran,BK3,3x3 Basketball,4,4,8
+IRI,IR Iran,ARC,Archery,6,4,10
+IRI,IR Iran,GAR,Artistic Gymnastics,5,1,6
+IRI,IR Iran,ATH,Athletics,7,4,11
+IRI,IR Iran,BDM,Badminton,1,1,2
+IRI,IR Iran,BKB,Basketball,12,0,12
+IRI,IR Iran,VBV,Beach Volleyball,4,0,4
+IRI,IR Iran,BOX,Boxing,5,2,7
+IRI,IR Iran,CSP,Canoe Sprint,3,5,8
+IRI,IR Iran,CRD,Cycling Road,1,1,2
+IRI,IR Iran,CTR,Cycling Track,1,0,1
+IRI,IR Iran,DIV,Diving,2,0,2
+IRI,IR Iran,EQU,Equestrian,0,1,1
+IRI,IR Iran,ELS,Esports,3,0,3
+IRI,IR Iran,FEN,Fencing,4,1,5
+IRI,IR Iran,FBL,Football,23,0,23
+IRI,IR Iran,GLF,Golf,1,1,2
+IRI,IR Iran,HBL,Handball,16,0,16
+IRI,IR Iran,JJI,Jiu Jitsu,1,2,3
+IRI,IR Iran,JUD,Judo,3,3,6
+IRI,IR Iran,KAB,Kabaddi,12,12,24
+IRI,IR Iran,KTE,Karate,3,5,8
+IRI,IR Iran,KUR,Kurash,3,4,7
+IRI,IR Iran,MMA,Mixed Martial Arts,2,1,3
+IRI,IR Iran,PDL,Padel,4,4,8
+IRI,IR Iran,ROW,Rowing,2,9,11
+IRI,IR Iran,SAL,Sailing,1,0,1
+IRI,IR Iran,SHO,Shooting,7,7,14
+IRI,IR Iran,SKB,Skateboarding,1,0,1
+IRI,IR Iran,CLB,Sport Climbing,1,1,2
+IRI,IR Iran,SQU,Squash,1,3,4
+IRI,IR Iran,SRF,Surfing,1,0,1
+IRI,IR Iran,SWM,Swimming,4,0,4
+IRI,IR Iran,TTE,Table Tennis,5,2,7
+IRI,IR Iran,TKW,Taekwondo,5,5,10
+IRI,IR Iran,TEN,Tennis,2,2,4
+IRI,IR Iran,GTR,Trampoline Gymnastics,2,2,4
+IRI,IR Iran,TRI,Triathlon,1,0,1
+IRI,IR Iran,VVO,Volleyball,12,0,12
+IRI,IR Iran,WPO,Water Polo,15,0,15
+IRI,IR Iran,WLF,Weightlifting,4,2,6
+IRI,IR Iran,WRE,Wrestling,12,0,12
+IRI,IR Iran,WSU,Wushu,7,5,12
+IND,India,ARC,Archery,6,6,12
+IND,India,GAR,Artistic Gymnastics,0,1,1
+IND,India,ATH,Athletics,32,36,68
+IND,India,BDM,Badminton,10,10,20
+IND,India,BOX,Boxing,6,5,11
+IND,India,CSL,Canoe Slalom,2,3,5
+IND,India,CSP,Canoe Sprint,8,6,14
+IND,India,CKT,Cricket,14,15,29
+IND,India,CTR,Cycling Track,6,8,14
+IND,India,EQU,Equestrian,6,1,7
+IND,India,ELS,Esports,15,0,15
+IND,India,FEN,Fencing,8,12,20
+IND,India,GLF,Golf,3,3,6
+IND,India,HOC,Hockey,20,20,40
+IND,India,JUD,Judo,0,3,3
+IND,India,KAB,Kabaddi,12,12,24
+IND,India,KTE,Karate,1,1,2
+IND,India,KUR,Kurash,3,3,6
+IND,India,MMA,Mixed Martial Arts,1,1,2
+IND,India,ROW,Rowing,16,4,20
+IND,India,RU7,Rugby Sevens,0,13,13
+IND,India,SAL,Sailing,4,6,10
+IND,India,SPK,Sepaktakraw,12,9,21
+IND,India,SHO,Shooting,15,15,30
+IND,India,TST,Soft Tennis,5,1,6
+IND,India,CLB,Sport Climbing,1,1,2
+IND,India,SQU,Squash,4,4,8
+IND,India,SRF,Surfing,2,2,4
+IND,India,SWM,Swimming,12,0,12
+IND,India,TTE,Table Tennis,5,5,10
+IND,India,TKW,Taekwondo,0,3,3
+IND,India,TEN,Tennis,5,2,7
+IND,India,TEQ,Teqball,2,1,3
+IND,India,VVO,Volleyball,12,0,12
+IND,India,WLF,Weightlifting,0,4,4
+IND,India,WRE,Wrestling,9,6,15
+IND,India,WSU,Wushu,3,4,7
+INA,Indonesia,BK3,3x3 Basketball,4,4,8
+INA,Indonesia,ARC,Archery,4,6,10
+INA,Indonesia,GAR,Artistic Gymnastics,0,1,1
+INA,Indonesia,ATH,Athletics,6,6,12
+INA,Indonesia,BDM,Badminton,10,10,20
+INA,Indonesia,BKB,Basketball,12,12,24
+INA,Indonesia,VBV,Beach Volleyball,4,0,4
+INA,Indonesia,BOX,Boxing,3,2,5
+INA,Indonesia,CSL,Canoe Slalom,2,2,4
+INA,Indonesia,CSP,Canoe Sprint,8,5,13
+INA,Indonesia,BMF,Cycling BMX Freestyle,1,0,1
+INA,Indonesia,BMX,Cycling BMX Racing,2,2,4
+INA,Indonesia,MTB,Cycling Mountain Bike,2,2,4
+INA,Indonesia,CRD,Cycling Road,3,3,6
+INA,Indonesia,CTR,Cycling Track,6,1,7
+INA,Indonesia,EQU,Equestrian,9,3,12
+INA,Indonesia,ELS,Esports,33,0,33
+INA,Indonesia,FEN,Fencing,1,6,7
+INA,Indonesia,GLF,Golf,3,3,6
+INA,Indonesia,HOC,Hockey,18,18,36
+INA,Indonesia,JUD,Judo,4,2,6
+INA,Indonesia,KTE,Karate,3,3,6
+INA,Indonesia,MMA,Mixed Martial Arts,2,1,3
+INA,Indonesia,MPN,Modern Pentathlon,2,3,5
+INA,Indonesia,PDL,Padel,4,4,8
+INA,Indonesia,GRY,Rhythmic Gymnastics,0,1,1
+INA,Indonesia,ROW,Rowing,10,5,15
+INA,Indonesia,SPK,Sepaktakraw,9,9,18
+INA,Indonesia,SHO,Shooting,13,13,26
+INA,Indonesia,SKB,Skateboarding,3,4,7
+INA,Indonesia,TST,Soft Tennis,5,2,7
+INA,Indonesia,CLB,Sport Climbing,5,4,9
+INA,Indonesia,SQU,Squash,1,1,2
+INA,Indonesia,SRF,Surfing,2,2,4
+INA,Indonesia,SWM,Swimming,9,5,14
+INA,Indonesia,TTE,Table Tennis,5,5,10
+INA,Indonesia,TKW,Taekwondo,3,0,3
+INA,Indonesia,TEN,Tennis,4,3,7
+INA,Indonesia,TEQ,Teqball,3,1,4
+INA,Indonesia,TRI,Triathlon,3,2,5
+INA,Indonesia,VVO,Volleyball,12,12,24
+INA,Indonesia,WLF,Weightlifting,3,4,7
+INA,Indonesia,WRE,Wrestling,3,2,5
+INA,Indonesia,WSU,Wushu,8,5,13
+IRQ,Iraq,ATH,Athletics,1,0,1
+IRQ,Iraq,BOX,Boxing,3,0,3
+IRQ,Iraq,ELS,Esports,1,0,1
+IRQ,Iraq,JJI,Jiu Jitsu,1,0,1
+IRQ,Iraq,ROW,Rowing,2,0,2
+IRQ,Iraq,TEQ,Teqball,2,1,3
+IRQ,Iraq,WLF,Weightlifting,1,0,1
+IRQ,Iraq,WRE,Wrestling,2,0,2
+JPN,Japan,BK3,3x3 Basketball,4,4,8
+JPN,Japan,ARC,Archery,4,4,8
+JPN,Japan,GAR,Artistic Gymnastics,5,5,10
+JPN,Japan,SWA,Artistic Swimming,0,10,10
+JPN,Japan,ATH,Athletics,44,40,84
+JPN,Japan,BDM,Badminton,10,10,20
+JPN,Japan,BBL,Baseball,23,0,23
+JPN,Japan,BKB,Basketball,12,12,24
+JPN,Japan,VBV,Beach Volleyball,4,4,8
+JPN,Japan,BOX,Boxing,4,4,8
+JPN,Japan,BKG,Breaking,2,2,4
+JPN,Japan,CSL,Canoe Slalom,3,3,6
+JPN,Japan,CSP,Canoe Sprint,8,6,14
+JPN,Japan,CKT,Cricket,15,15,30
+JPN,Japan,BMF,Cycling BMX Freestyle,2,2,4
+JPN,Japan,BMX,Cycling BMX Racing,2,2,4
+JPN,Japan,MTB,Cycling Mountain Bike,2,2,4
+JPN,Japan,CRD,Cycling Road,4,3,7
+JPN,Japan,CTR,Cycling Track,9,9,18
+JPN,Japan,DIV,Diving,7,2,9
+JPN,Japan,EQU,Equestrian,10,1,11
+JPN,Japan,ELS,Esports,25,0,25
+JPN,Japan,FEN,Fencing,12,12,24
+JPN,Japan,FBL,Football,23,23,46
+JPN,Japan,GLF,Golf,3,3,6
+JPN,Japan,HBL,Handball,16,16,32
+JPN,Japan,HOC,Hockey,19,20,39
+JPN,Japan,JJI,Jiu Jitsu,5,3,8
+JPN,Japan,JUD,Judo,9,9,18
+JPN,Japan,KAB,Kabaddi,12,12,24
+JPN,Japan,KTE,Karate,3,3,6
+JPN,Japan,KUR,Kurash,2,3,5
+JPN,Japan,MMA,Mixed Martial Arts,2,1,3
+JPN,Japan,MPN,Modern Pentathlon,4,4,8
+JPN,Japan,PDL,Padel,4,4,8
+JPN,Japan,GRY,Rhythmic Gymnastics,0,7,7
+JPN,Japan,ROW,Rowing,13,14,27
+JPN,Japan,RU7,Rugby Sevens,13,13,26
+JPN,Japan,SAL,Sailing,10,10,20
+JPN,Japan,SPK,Sepaktakraw,12,12,24
+JPN,Japan,SHO,Shooting,15,15,30
+JPN,Japan,SKB,Skateboarding,4,4,8
+JPN,Japan,TST,Soft Tennis,5,5,10
+JPN,Japan,SBL,Softball,0,17,17
+JPN,Japan,CLB,Sport Climbing,6,5,11
+JPN,Japan,SQU,Squash,4,4,8
+JPN,Japan,SRF,Surfing,2,2,4
+JPN,Japan,SWM,Swimming,16,17,33
+JPN,Japan,TTE,Table Tennis,5,5,10
+JPN,Japan,TKW,Taekwondo,6,4,10
+JPN,Japan,TEN,Tennis,6,6,12
+JPN,Japan,TEQ,Teqball,3,1,4
+JPN,Japan,GTR,Trampoline Gymnastics,2,2,4
+JPN,Japan,TRI,Triathlon,3,2,5
+JPN,Japan,VVO,Volleyball,12,12,24
+JPN,Japan,WPO,Water Polo,15,15,30
+JPN,Japan,WLF,Weightlifting,5,5,10
+JPN,Japan,WRE,Wrestling,12,6,18
+JPN,Japan,WSU,Wushu,3,4,7
+JOR,Jordan,GAR,Artistic Gymnastics,1,0,1
+JOR,Jordan,BKB,Basketball,12,0,12
+JOR,Jordan,BOX,Boxing,4,2,6
+JOR,Jordan,CRD,Cycling Road,0,1,1
+JOR,Jordan,CTR,Cycling Track,0,1,1
+JOR,Jordan,EQU,Equestrian,3,0,3
+JOR,Jordan,ELS,Esports,19,0,19
+JOR,Jordan,FEN,Fencing,2,1,3
+JOR,Jordan,JJI,Jiu Jitsu,8,1,9
+JOR,Jordan,KTE,Karate,3,3,6
+JOR,Jordan,MMA,Mixed Martial Arts,3,0,3
+JOR,Jordan,CLB,Sport Climbing,1,1,2
+JOR,Jordan,SQU,Squash,1,0,1
+JOR,Jordan,TKW,Taekwondo,4,3,7
+JOR,Jordan,TEN,Tennis,2,0,2
+JOR,Jordan,TRI,Triathlon,0,1,1
+JOR,Jordan,WLF,Weightlifting,1,0,1
+KAZ,Kazakhstan,BK3,3x3 Basketball,4,4,8
+KAZ,Kazakhstan,ARC,Archery,6,6,12
+KAZ,Kazakhstan,GAR,Artistic Gymnastics,5,4,9
+KAZ,Kazakhstan,SWA,Artistic Swimming,1,9,10
+KAZ,Kazakhstan,ATH,Athletics,11,17,28
+KAZ,Kazakhstan,BDM,Badminton,4,5,9
+KAZ,Kazakhstan,BKB,Basketball,12,12,24
+KAZ,Kazakhstan,VBV,Beach Volleyball,4,4,8
+KAZ,Kazakhstan,BOX,Boxing,6,5,11
+KAZ,Kazakhstan,BKG,Breaking,2,2,4
+KAZ,Kazakhstan,CSL,Canoe Slalom,3,2,5
+KAZ,Kazakhstan,CSP,Canoe Sprint,8,7,15
+KAZ,Kazakhstan,MTB,Cycling Mountain Bike,2,2,4
+KAZ,Kazakhstan,CRD,Cycling Road,3,3,6
+KAZ,Kazakhstan,CTR,Cycling Track,9,1,10
+KAZ,Kazakhstan,DIV,Diving,2,0,2
+KAZ,Kazakhstan,EQU,Equestrian,1,3,4
+KAZ,Kazakhstan,ELS,Esports,24,1,25
+KAZ,Kazakhstan,FEN,Fencing,11,11,22
+KAZ,Kazakhstan,GLF,Golf,2,2,4
+KAZ,Kazakhstan,HBL,Handball,16,15,31
+KAZ,Kazakhstan,HOC,Hockey,0,20,20
+KAZ,Kazakhstan,JJI,Jiu Jitsu,10,5,15
+KAZ,Kazakhstan,JUD,Judo,7,7,14
+KAZ,Kazakhstan,KTE,Karate,3,3,6
+KAZ,Kazakhstan,KUR,Kurash,3,4,7
+KAZ,Kazakhstan,MMA,Mixed Martial Arts,3,1,4
+KAZ,Kazakhstan,MPN,Modern Pentathlon,4,3,7
+KAZ,Kazakhstan,PDL,Padel,4,4,8
+KAZ,Kazakhstan,GRY,Rhythmic Gymnastics,0,7,7
+KAZ,Kazakhstan,ROW,Rowing,10,7,17
+KAZ,Kazakhstan,RU7,Rugby Sevens,13,13,26
+KAZ,Kazakhstan,SAL,Sailing,3,3,6
+KAZ,Kazakhstan,SHO,Shooting,15,13,28
+KAZ,Kazakhstan,SKB,Skateboarding,2,1,3
+KAZ,Kazakhstan,CLB,Sport Climbing,2,2,4
+KAZ,Kazakhstan,SWM,Swimming,7,3,10
+KAZ,Kazakhstan,TTE,Table Tennis,5,5,10
+KAZ,Kazakhstan,TKW,Taekwondo,5,3,8
+KAZ,Kazakhstan,TEN,Tennis,4,4,8
+KAZ,Kazakhstan,GTR,Trampoline Gymnastics,2,1,3
+KAZ,Kazakhstan,TRI,Triathlon,3,2,5
+KAZ,Kazakhstan,VVO,Volleyball,12,12,24
+KAZ,Kazakhstan,WPO,Water Polo,15,15,30
+KAZ,Kazakhstan,WLF,Weightlifting,5,5,10
+KAZ,Kazakhstan,WRE,Wrestling,12,6,18
+KAZ,Kazakhstan,WSU,Wushu,4,2,6
+KOR,Korea,BK3,3x3 Basketball,4,4,8
+KOR,Korea,ARC,Archery,6,6,12
+KOR,Korea,GAR,Artistic Gymnastics,5,5,10
+KOR,Korea,SWA,Artistic Swimming,0,3,3
+KOR,Korea,ATH,Athletics,24,17,41
+KOR,Korea,BDM,Badminton,10,10,20
+KOR,Korea,BBL,Baseball,24,0,24
+KOR,Korea,BKB,Basketball,12,11,23
+KOR,Korea,VBV,Beach Volleyball,4,4,8
+KOR,Korea,BOX,Boxing,6,5,11
+KOR,Korea,BKG,Breaking,2,2,4
+KOR,Korea,CSL,Canoe Slalom,3,0,3
+KOR,Korea,CSP,Canoe Sprint,6,5,11
+KOR,Korea,BMF,Cycling BMX Freestyle,1,1,2
+KOR,Korea,BMX,Cycling BMX Racing,2,2,4
+KOR,Korea,MTB,Cycling Mountain Bike,2,0,2
+KOR,Korea,CRD,Cycling Road,3,4,7
+KOR,Korea,CTR,Cycling Track,9,7,16
+KOR,Korea,DIV,Diving,4,4,8
+KOR,Korea,EQU,Equestrian,12,0,12
+KOR,Korea,ELS,Esports,35,1,36
+KOR,Korea,FEN,Fencing,12,12,24
+KOR,Korea,FBL,Football,23,23,46
+KOR,Korea,GLF,Golf,3,3,6
+KOR,Korea,HBL,Handball,16,16,32
+KOR,Korea,HOC,Hockey,20,19,39
+KOR,Korea,JJI,Jiu Jitsu,10,6,16
+KOR,Korea,JUD,Judo,9,9,18
+KOR,Korea,KAB,Kabaddi,12,0,12
+KOR,Korea,KTE,Karate,3,3,6
+KOR,Korea,KUR,Kurash,3,4,7
+KOR,Korea,MMA,Mixed Martial Arts,2,1,3
+KOR,Korea,MPN,Modern Pentathlon,4,4,8
+KOR,Korea,GRY,Rhythmic Gymnastics,0,7,7
+KOR,Korea,ROW,Rowing,10,6,16
+KOR,Korea,RU7,Rugby Sevens,13,0,13
+KOR,Korea,SAL,Sailing,8,5,13
+KOR,Korea,SPK,Sepaktakraw,12,12,24
+KOR,Korea,SHO,Shooting,15,15,30
+KOR,Korea,SKB,Skateboarding,4,4,8
+KOR,Korea,TST,Soft Tennis,5,5,10
+KOR,Korea,SBL,Softball,0,17,17
+KOR,Korea,CLB,Sport Climbing,5,5,10
+KOR,Korea,SQU,Squash,4,4,8
+KOR,Korea,SRF,Surfing,2,2,4
+KOR,Korea,SWM,Swimming,18,11,29
+KOR,Korea,TTE,Table Tennis,5,5,10
+KOR,Korea,TKW,Taekwondo,5,5,10
+KOR,Korea,TEN,Tennis,6,6,12
+KOR,Korea,TEQ,Teqball,3,1,4
+KOR,Korea,TRI,Triathlon,2,2,4
+KOR,Korea,VVO,Volleyball,12,12,24
+KOR,Korea,WPO,Water Polo,14,0,14
+KOR,Korea,WLF,Weightlifting,5,5,10
+KOR,Korea,WRE,Wrestling,12,6,18
+KOR,Korea,WSU,Wushu,8,5,13
+KUW,Kuwait,ATH,Athletics,7,1,8
+KUW,Kuwait,EQU,Equestrian,4,0,4
+KUW,Kuwait,FEN,Fencing,8,1,9
+KUW,Kuwait,FBL,Football,22,0,22
+KUW,Kuwait,GLF,Golf,1,0,1
+KUW,Kuwait,HBL,Handball,16,0,16
+KUW,Kuwait,JJI,Jiu Jitsu,5,0,5
+KUW,Kuwait,KTE,Karate,5,3,8
+KUW,Kuwait,MPN,Modern Pentathlon,1,2,3
+KUW,Kuwait,PDL,Padel,4,4,8
+KUW,Kuwait,SAL,Sailing,0,1,1
+KUW,Kuwait,SHO,Shooting,6,6,12
+KUW,Kuwait,CLB,Sport Climbing,1,0,1
+KUW,Kuwait,SQU,Squash,4,0,4
+KUW,Kuwait,SWM,Swimming,7,4,11
+KUW,Kuwait,TEQ,Teqball,4,1,5
+KGZ,Kyrgyzstan,ARC,Archery,3,3,6
+KGZ,Kyrgyzstan,GAR,Artistic Gymnastics,0,1,1
+KGZ,Kyrgyzstan,ATH,Athletics,1,2,3
+KGZ,Kyrgyzstan,VBV,Beach Volleyball,0,2,2
+KGZ,Kyrgyzstan,BOX,Boxing,6,0,6
+KGZ,Kyrgyzstan,CSP,Canoe Sprint,4,0,4
+KGZ,Kyrgyzstan,ELS,Esports,8,0,8
+KGZ,Kyrgyzstan,FEN,Fencing,4,1,5
+KGZ,Kyrgyzstan,FBL,Football,23,0,23
+KGZ,Kyrgyzstan,GLF,Golf,1,0,1
+KGZ,Kyrgyzstan,JJI,Jiu Jitsu,9,0,9
+KGZ,Kyrgyzstan,JUD,Judo,7,6,13
+KGZ,Kyrgyzstan,KTE,Karate,3,1,4
+KGZ,Kyrgyzstan,KUR,Kurash,2,4,6
+KGZ,Kyrgyzstan,MMA,Mixed Martial Arts,3,1,4
+KGZ,Kyrgyzstan,MPN,Modern Pentathlon,1,2,3
+KGZ,Kyrgyzstan,GRY,Rhythmic Gymnastics,0,7,7
+KGZ,Kyrgyzstan,SAL,Sailing,1,0,1
+KGZ,Kyrgyzstan,SHO,Shooting,2,4,6
+KGZ,Kyrgyzstan,SWM,Swimming,2,1,3
+KGZ,Kyrgyzstan,TTE,Table Tennis,3,1,4
+KGZ,Kyrgyzstan,TKW,Taekwondo,1,2,3
+KGZ,Kyrgyzstan,TEQ,Teqball,1,1,2
+KGZ,Kyrgyzstan,TRI,Triathlon,2,2,4
+KGZ,Kyrgyzstan,VVO,Volleyball,11,12,23
+KGZ,Kyrgyzstan,WLF,Weightlifting,1,0,1
+KGZ,Kyrgyzstan,WRE,Wrestling,11,3,14
+KGZ,Kyrgyzstan,WSU,Wushu,3,1,4
+LAO,Lao PDR,ATH,Athletics,2,2,4
+LAO,Lao PDR,BDM,Badminton,2,0,2
+LAO,Lao PDR,BOX,Boxing,2,0,2
+LAO,Lao PDR,ELS,Esports,6,1,7
+LAO,Lao PDR,FEN,Fencing,1,0,1
+LAO,Lao PDR,JJI,Jiu Jitsu,2,1,3
+LAO,Lao PDR,JUD,Judo,3,2,5
+LAO,Lao PDR,KTE,Karate,2,2,4
+LAO,Lao PDR,GRY,Rhythmic Gymnastics,0,1,1
+LAO,Lao PDR,SPK,Sepaktakraw,11,8,19
+LAO,Lao PDR,TST,Soft Tennis,5,1,6
+LAO,Lao PDR,SWM,Swimming,1,1,2
+LAO,Lao PDR,TTE,Table Tennis,4,1,5
+LAO,Lao PDR,TEQ,Teqball,2,1,3
+LAO,Lao PDR,WSU,Wushu,3,1,4
+LBN,Lebanon,ARC,Archery,1,1,2
+LBN,Lebanon,GAR,Artistic Gymnastics,0,1,1
+LBN,Lebanon,ATH,Athletics,1,1,2
+LBN,Lebanon,FEN,Fencing,1,0,1
+LBN,Lebanon,JUD,Judo,1,1,2
+LBN,Lebanon,MPN,Modern Pentathlon,1,0,1
+LBN,Lebanon,PDL,Padel,2,2,4
+LBN,Lebanon,GRY,Rhythmic Gymnastics,0,1,1
+LBN,Lebanon,ROW,Rowing,1,0,1
+LBN,Lebanon,SHO,Shooting,4,0,4
+LBN,Lebanon,SQU,Squash,1,0,1
+LBN,Lebanon,SRF,Surfing,2,0,2
+LBN,Lebanon,SWM,Swimming,1,1,2
+LBN,Lebanon,TTE,Table Tennis,0,3,3
+LBN,Lebanon,TKW,Taekwondo,0,1,1
+LBN,Lebanon,TEQ,Teqball,2,2,4
+LBN,Lebanon,TRI,Triathlon,1,0,1
+LBN,Lebanon,WLF,Weightlifting,0,2,2
+LBN,Lebanon,WRE,Wrestling,1,0,1
+MAC,"Macao, China",BK3,3x3 Basketball,0,4,4
+MAC,"Macao, China",ATH,Athletics,4,1,5
+MAC,"Macao, China",BDM,Badminton,4,2,6
+MAC,"Macao, China",VBV,Beach Volleyball,0,2,2
+MAC,"Macao, China",BOX,Boxing,1,0,1
+MAC,"Macao, China",CRD,Cycling Road,3,2,5
+MAC,"Macao, China",CTR,Cycling Track,2,1,3
+MAC,"Macao, China",DIV,Diving,0,2,2
+MAC,"Macao, China",FEN,Fencing,4,4,8
+MAC,"Macao, China",GLF,Golf,3,1,4
+MAC,"Macao, China",KTE,Karate,5,5,10
+MAC,"Macao, China",SQU,Squash,0,4,4
+MAC,"Macao, China",SWM,Swimming,5,5,10
+MAC,"Macao, China",TTE,Table Tennis,3,3,6
+MAC,"Macao, China",TKW,Taekwondo,1,1,2
+MAC,"Macao, China",TRI,Triathlon,2,2,4
+MAC,"Macao, China",WSU,Wushu,6,4,10
+MAS,Malaysia,BK3,3x3 Basketball,4,4,8
+MAS,Malaysia,ARC,Archery,6,6,12
+MAS,Malaysia,GAR,Artistic Gymnastics,1,5,6
+MAS,Malaysia,ATH,Athletics,12,7,19
+MAS,Malaysia,BDM,Badminton,10,10,20
+MAS,Malaysia,BKB,Basketball,0,12,12
+MAS,Malaysia,VBV,Beach Volleyball,0,2,2
+MAS,Malaysia,CKT,Cricket,15,15,30
+MAS,Malaysia,BMF,Cycling BMX Freestyle,0,1,1
+MAS,Malaysia,CTR,Cycling Track,6,4,10
+MAS,Malaysia,DIV,Diving,6,4,10
+MAS,Malaysia,EQU,Equestrian,1,1,2
+MAS,Malaysia,ELS,Esports,44,0,44
+MAS,Malaysia,HOC,Hockey,20,18,38
+MAS,Malaysia,JJI,Jiu Jitsu,1,0,1
+MAS,Malaysia,JUD,Judo,1,0,1
+MAS,Malaysia,KAB,Kabaddi,12,0,12
+MAS,Malaysia,KTE,Karate,5,3,8
+MAS,Malaysia,MPN,Modern Pentathlon,1,1,2
+MAS,Malaysia,PDL,Padel,2,2,4
+MAS,Malaysia,GRY,Rhythmic Gymnastics,0,5,5
+MAS,Malaysia,ROW,Rowing,0,1,1
+MAS,Malaysia,RU7,Rugby Sevens,13,12,25
+MAS,Malaysia,SAL,Sailing,6,6,12
+MAS,Malaysia,SPK,Sepaktakraw,12,9,21
+MAS,Malaysia,SHO,Shooting,2,5,7
+MAS,Malaysia,CLB,Sport Climbing,1,1,2
+MAS,Malaysia,SQU,Squash,4,4,8
+MAS,Malaysia,SRF,Surfing,1,1,2
+MAS,Malaysia,SWM,Swimming,9,0,9
+MAS,Malaysia,TTE,Table Tennis,2,0,2
+MAS,Malaysia,TKW,Taekwondo,2,2,4
+MAS,Malaysia,WLF,Weightlifting,2,0,2
+MAS,Malaysia,WSU,Wushu,2,5,7
+MDV,Maldives,ATH,Athletics,6,0,6
+MDV,Maldives,BDM,Badminton,2,2,4
+MDV,Maldives,VBV,Beach Volleyball,2,2,4
+MDV,Maldives,SHO,Shooting,6,6,12
+MDV,Maldives,SRF,Surfing,2,2,4
+MDV,Maldives,SWM,Swimming,2,2,4
+MDV,Maldives,TTE,Table Tennis,4,4,8
+MGL,Mongolia,BK3,3x3 Basketball,4,4,8
+MGL,Mongolia,ARC,Archery,6,6,12
+MGL,Mongolia,GAR,Artistic Gymnastics,2,0,2
+MGL,Mongolia,ATH,Athletics,7,7,14
+MGL,Mongolia,BDM,Badminton,8,8,16
+MGL,Mongolia,BKB,Basketball,0,12,12
+MGL,Mongolia,VBV,Beach Volleyball,2,4,6
+MGL,Mongolia,BOX,Boxing,3,3,6
+MGL,Mongolia,BKG,Breaking,2,1,3
+MGL,Mongolia,CSL,Canoe Slalom,1,1,2
+MGL,Mongolia,CSP,Canoe Sprint,2,2,4
+MGL,Mongolia,CRD,Cycling Road,3,2,5
+MGL,Mongolia,ELS,Esports,9,1,10
+MGL,Mongolia,FEN,Fencing,4,5,9
+MGL,Mongolia,GLF,Golf,3,3,6
+MGL,Mongolia,JJI,Jiu Jitsu,10,6,16
+MGL,Mongolia,JUD,Judo,9,8,17
+MGL,Mongolia,KTE,Karate,3,3,6
+MGL,Mongolia,KUR,Kurash,2,2,4
+MGL,Mongolia,MMA,Mixed Martial Arts,0,1,1
+MGL,Mongolia,MPN,Modern Pentathlon,1,0,1
+MGL,Mongolia,SHO,Shooting,6,8,14
+MGL,Mongolia,TST,Soft Tennis,5,5,10
+MGL,Mongolia,SQU,Squash,4,4,8
+MGL,Mongolia,SWM,Swimming,18,16,34
+MGL,Mongolia,TTE,Table Tennis,4,4,8
+MGL,Mongolia,TKW,Taekwondo,2,4,6
+MGL,Mongolia,TEN,Tennis,5,5,10
+MGL,Mongolia,TEQ,Teqball,2,0,2
+MGL,Mongolia,TRI,Triathlon,1,2,3
+MGL,Mongolia,VVO,Volleyball,0,12,12
+MGL,Mongolia,WLF,Weightlifting,5,5,10
+MGL,Mongolia,WRE,Wrestling,9,6,15
+MGL,Mongolia,WSU,Wushu,4,2,6
+MYA,Myanmar,GAR,Artistic Gymnastics,0,1,1
+MYA,Myanmar,ELS,Esports,17,0,17
+MYA,Myanmar,FBL,Football,0,23,23
+MYA,Myanmar,SPK,Sepaktakraw,11,3,14
+MYA,Myanmar,TEQ,Teqball,1,3,4
+NEP,Nepal,ARC,Archery,1,1,2
+NEP,Nepal,ATH,Athletics,4,2,6
+NEP,Nepal,BDM,Badminton,2,2,4
+NEP,Nepal,BOX,Boxing,4,3,7
+NEP,Nepal,CSL,Canoe Slalom,2,0,2
+NEP,Nepal,CKT,Cricket,15,0,15
+NEP,Nepal,MTB,Cycling Mountain Bike,1,1,2
+NEP,Nepal,ELS,Esports,1,0,1
+NEP,Nepal,GLF,Golf,3,1,4
+NEP,Nepal,JUD,Judo,3,3,6
+NEP,Nepal,KAB,Kabaddi,12,12,24
+NEP,Nepal,KTE,Karate,3,5,8
+NEP,Nepal,SKB,Skateboarding,2,0,2
+NEP,Nepal,TST,Soft Tennis,3,1,4
+NEP,Nepal,SQU,Squash,1,1,2
+NEP,Nepal,SWM,Swimming,3,2,5
+NEP,Nepal,TTE,Table Tennis,3,3,6
+NEP,Nepal,TKW,Taekwondo,2,1,3
+NEP,Nepal,TEN,Tennis,3,2,5
+NEP,Nepal,VVO,Volleyball,0,12,12
+NEP,Nepal,WRE,Wrestling,4,2,6
+NEP,Nepal,WSU,Wushu,7,3,10
+OMA,Oman,ATH,Athletics,7,3,10
+OMA,Oman,VBV,Beach Volleyball,4,0,4
+OMA,Oman,CKT,Cricket,15,0,15
+OMA,Oman,ELS,Esports,3,0,3
+OMA,Oman,FEN,Fencing,4,3,7
+OMA,Oman,GLF,Golf,1,0,1
+OMA,Oman,HOC,Hockey,18,0,18
+OMA,Oman,SAL,Sailing,4,0,4
+OMA,Oman,SHO,Shooting,6,2,8
+OMA,Oman,TKW,Taekwondo,1,0,1
+OMA,Oman,WLF,Weightlifting,2,0,2
+PAK,Pakistan,ATH,Athletics,4,3,7
+PAK,Pakistan,BDM,Badminton,1,1,2
+PAK,Pakistan,BOX,Boxing,2,2,4
+PAK,Pakistan,CKT,Cricket,15,14,29
+PAK,Pakistan,EQU,Equestrian,1,0,1
+PAK,Pakistan,ELS,Esports,8,0,8
+PAK,Pakistan,FEN,Fencing,5,0,5
+PAK,Pakistan,HOC,Hockey,20,0,20
+PAK,Pakistan,KAB,Kabaddi,12,0,12
+PAK,Pakistan,MMA,Mixed Martial Arts,1,0,1
+PAK,Pakistan,ROW,Rowing,1,0,1
+PAK,Pakistan,SAL,Sailing,2,1,3
+PAK,Pakistan,SHO,Shooting,7,2,9
+PAK,Pakistan,TST,Soft Tennis,5,5,10
+PAK,Pakistan,SQU,Squash,4,4,8
+PAK,Pakistan,SWM,Swimming,1,2,3
+PAK,Pakistan,TTE,Table Tennis,5,4,9
+PAK,Pakistan,TKW,Taekwondo,3,1,4
+PAK,Pakistan,TEN,Tennis,4,2,6
+PAK,Pakistan,TRI,Triathlon,3,2,5
+PAK,Pakistan,VVO,Volleyball,12,0,12
+PAK,Pakistan,WRE,Wrestling,4,0,4
+PAK,Pakistan,WSU,Wushu,3,1,4
+PLE,Palestine,ARC,Archery,0,1,1
+PLE,Palestine,ATH,Athletics,3,0,3
+PLE,Palestine,BBL,Baseball,24,0,24
+PLE,Palestine,BOX,Boxing,1,0,1
+PLE,Palestine,EQU,Equestrian,0,1,1
+PLE,Palestine,ELS,Esports,5,0,5
+PLE,Palestine,GLF,Golf,3,1,4
+PLE,Palestine,JJI,Jiu Jitsu,2,1,3
+PLE,Palestine,JUD,Judo,1,0,1
+PLE,Palestine,KTE,Karate,2,0,2
+PLE,Palestine,MMA,Mixed Martial Arts,1,0,1
+PLE,Palestine,MPN,Modern Pentathlon,2,0,2
+PLE,Palestine,ROW,Rowing,2,0,2
+PLE,Palestine,SHO,Shooting,3,0,3
+PLE,Palestine,SWM,Swimming,2,5,7
+PLE,Palestine,TKW,Taekwondo,1,0,1
+PLE,Palestine,TRI,Triathlon,1,0,1
+PLE,Palestine,WLF,Weightlifting,1,0,1
+PLE,Palestine,WRE,Wrestling,1,0,1
+PHI,Philippines,BK3,3x3 Basketball,4,4,8
+PHI,Philippines,ARC,Archery,6,6,12
+PHI,Philippines,GAR,Artistic Gymnastics,5,5,10
+PHI,Philippines,ATH,Athletics,16,8,24
+PHI,Philippines,BBL,Baseball,22,0,22
+PHI,Philippines,BKB,Basketball,12,12,24
+PHI,Philippines,VBV,Beach Volleyball,4,4,8
+PHI,Philippines,BOX,Boxing,3,3,6
+PHI,Philippines,BMX,Cycling BMX Racing,2,0,2
+PHI,Philippines,MTB,Cycling Mountain Bike,0,2,2
+PHI,Philippines,EQU,Equestrian,1,1,2
+PHI,Philippines,ELS,Esports,30,0,30
+PHI,Philippines,FEN,Fencing,6,6,12
+PHI,Philippines,FBL,Football,23,23,46
+PHI,Philippines,GLF,Golf,3,3,6
+PHI,Philippines,JJI,Jiu Jitsu,9,6,15
+PHI,Philippines,JUD,Judo,5,3,8
+PHI,Philippines,KTE,Karate,2,4,6
+PHI,Philippines,KUR,Kurash,3,3,6
+PHI,Philippines,MMA,Mixed Martial Arts,2,1,3
+PHI,Philippines,MPN,Modern Pentathlon,4,3,7
+PHI,Philippines,PDL,Padel,4,4,8
+PHI,Philippines,GRY,Rhythmic Gymnastics,0,2,2
+PHI,Philippines,ROW,Rowing,4,1,5
+PHI,Philippines,RU7,Rugby Sevens,13,0,13
+PHI,Philippines,SAL,Sailing,4,4,8
+PHI,Philippines,SPK,Sepaktakraw,12,9,21
+PHI,Philippines,SHO,Shooting,9,2,11
+PHI,Philippines,SKB,Skateboarding,3,2,5
+PHI,Philippines,TST,Soft Tennis,5,5,10
+PHI,Philippines,SBL,Softball,0,17,17
+PHI,Philippines,SQU,Squash,4,2,6
+PHI,Philippines,SRF,Surfing,2,2,4
+PHI,Philippines,SWM,Swimming,2,4,6
+PHI,Philippines,TKW,Taekwondo,3,4,7
+PHI,Philippines,TEN,Tennis,1,4,5
+PHI,Philippines,TEQ,Teqball,3,1,4
+PHI,Philippines,GTR,Trampoline Gymnastics,1,1,2
+PHI,Philippines,TRI,Triathlon,3,2,5
+PHI,Philippines,VVO,Volleyball,12,12,24
+PHI,Philippines,WLF,Weightlifting,2,3,5
+PHI,Philippines,WRE,Wrestling,4,3,7
+PHI,Philippines,WSU,Wushu,8,2,10
+QAT,Qatar,BK3,3x3 Basketball,4,4,8
+QAT,Qatar,ARC,Archery,1,3,4
+QAT,Qatar,GAR,Artistic Gymnastics,2,1,3
+QAT,Qatar,ATH,Athletics,20,2,22
+QAT,Qatar,BKB,Basketball,12,0,12
+QAT,Qatar,VBV,Beach Volleyball,4,4,8
+QAT,Qatar,BOX,Boxing,2,0,2
+QAT,Qatar,CRD,Cycling Road,1,1,2
+QAT,Qatar,EQU,Equestrian,10,0,10
+QAT,Qatar,ELS,Esports,3,0,3
+QAT,Qatar,FEN,Fencing,8,1,9
+QAT,Qatar,FBL,Football,23,0,23
+QAT,Qatar,GLF,Golf,3,1,4
+QAT,Qatar,HBL,Handball,16,0,16
+QAT,Qatar,JJI,Jiu Jitsu,3,0,3
+QAT,Qatar,JUD,Judo,0,1,1
+QAT,Qatar,KTE,Karate,3,0,3
+QAT,Qatar,PDL,Padel,4,4,8
+QAT,Qatar,SAL,Sailing,1,0,1
+QAT,Qatar,SHO,Shooting,12,12,24
+QAT,Qatar,SQU,Squash,4,0,4
+QAT,Qatar,SWM,Swimming,7,0,7
+QAT,Qatar,TTE,Table Tennis,5,5,10
+QAT,Qatar,TKW,Taekwondo,0,2,2
+QAT,Qatar,VVO,Volleyball,12,12,24
+QAT,Qatar,WLF,Weightlifting,1,1,2
+QAT,Qatar,WRE,Wrestling,2,0,2
+KSA,Saudi Arabia,ATH,Athletics,14,2,16
+KSA,Saudi Arabia,BKB,Basketball,12,0,12
+KSA,Saudi Arabia,BOX,Boxing,1,1,2
+KSA,Saudi Arabia,EQU,Equestrian,5,1,6
+KSA,Saudi Arabia,ELS,Esports,24,1,25
+KSA,Saudi Arabia,FEN,Fencing,8,0,8
+KSA,Saudi Arabia,FBL,Football,23,0,23
+KSA,Saudi Arabia,JJI,Jiu Jitsu,9,0,9
+KSA,Saudi Arabia,JUD,Judo,1,0,1
+KSA,Saudi Arabia,KTE,Karate,3,3,6
+KSA,Saudi Arabia,MMA,Mixed Martial Arts,2,1,3
+KSA,Saudi Arabia,PDL,Padel,0,4,4
+KSA,Saudi Arabia,SHO,Shooting,7,0,7
+KSA,Saudi Arabia,SQU,Squash,1,0,1
+KSA,Saudi Arabia,SWM,Swimming,7,0,7
+KSA,Saudi Arabia,TKW,Taekwondo,3,2,5
+KSA,Saudi Arabia,WLF,Weightlifting,3,0,3
+KSA,Saudi Arabia,WRE,Wrestling,3,0,3
+SGP,Singapore,BK3,3x3 Basketball,4,4,8
+SGP,Singapore,ARC,Archery,0,2,2
+SGP,Singapore,GAR,Artistic Gymnastics,5,5,10
+SGP,Singapore,ATH,Athletics,9,7,16
+SGP,Singapore,BDM,Badminton,3,1,4
+SGP,Singapore,CSP,Canoe Sprint,5,5,10
+SGP,Singapore,CRD,Cycling Road,0,1,1
+SGP,Singapore,CTR,Cycling Track,0,2,2
+SGP,Singapore,DIV,Diving,1,4,5
+SGP,Singapore,ELS,Esports,8,0,8
+SGP,Singapore,FEN,Fencing,8,12,20
+SGP,Singapore,GLF,Golf,3,3,6
+SGP,Singapore,HOC,Hockey,0,19,19
+SGP,Singapore,JJI,Jiu Jitsu,4,5,9
+SGP,Singapore,KTE,Karate,1,2,3
+SGP,Singapore,KUR,Kurash,1,0,1
+SGP,Singapore,MMA,Mixed Martial Arts,0,1,1
+SGP,Singapore,MPN,Modern Pentathlon,1,0,1
+SGP,Singapore,GRY,Rhythmic Gymnastics,0,7,7
+SGP,Singapore,RU7,Rugby Sevens,13,13,26
+SGP,Singapore,SAL,Sailing,6,5,11
+SGP,Singapore,SPK,Sepaktakraw,6,0,6
+SGP,Singapore,SHO,Shooting,1,2,3
+SGP,Singapore,SBL,Softball,0,17,17
+SGP,Singapore,CLB,Sport Climbing,4,5,9
+SGP,Singapore,SQU,Squash,1,4,5
+SGP,Singapore,SRF,Surfing,0,1,1
+SGP,Singapore,SWM,Swimming,15,14,29
+SGP,Singapore,TTE,Table Tennis,5,5,10
+SGP,Singapore,TKW,Taekwondo,1,1,2
+SGP,Singapore,TRI,Triathlon,2,3,5
+SGP,Singapore,WPO,Water Polo,15,15,30
+SGP,Singapore,WSU,Wushu,4,3,7
+SRI,Sri Lanka,BK3,3x3 Basketball,4,4,8
+SRI,Sri Lanka,ARC,Archery,0,2,2
+SRI,Sri Lanka,GAR,Artistic Gymnastics,1,1,2
+SRI,Sri Lanka,ATH,Athletics,14,7,21
+SRI,Sri Lanka,BDM,Badminton,2,1,3
+SRI,Sri Lanka,VBV,Beach Volleyball,2,2,4
+SRI,Sri Lanka,BOX,Boxing,4,3,7
+SRI,Sri Lanka,CKT,Cricket,15,15,30
+SRI,Sri Lanka,DIV,Diving,1,0,1
+SRI,Sri Lanka,ELS,Esports,2,1,3
+SRI,Sri Lanka,GLF,Golf,3,0,3
+SRI,Sri Lanka,HOC,Hockey,18,0,18
+SRI,Sri Lanka,JUD,Judo,4,0,4
+SRI,Sri Lanka,KAB,Kabaddi,0,12,12
+SRI,Sri Lanka,KTE,Karate,1,0,1
+SRI,Sri Lanka,MPN,Modern Pentathlon,1,1,2
+SRI,Sri Lanka,ROW,Rowing,2,0,2
+SRI,Sri Lanka,RU7,Rugby Sevens,13,0,13
+SRI,Sri Lanka,SAL,Sailing,1,1,2
+SRI,Sri Lanka,SQU,Squash,2,1,3
+SRI,Sri Lanka,SRF,Surfing,1,0,1
+SRI,Sri Lanka,SWM,Swimming,1,1,2
+SRI,Sri Lanka,TTE,Table Tennis,1,1,2
+SRI,Sri Lanka,TKW,Taekwondo,0,1,1
+SRI,Sri Lanka,WLF,Weightlifting,2,1,3
+SRI,Sri Lanka,WRE,Wrestling,3,2,5
+SRI,Sri Lanka,WSU,Wushu,1,0,1
+SYR,Syria,ATH,Athletics,1,0,1
+SYR,Syria,CRD,Cycling Road,1,0,1
+SYR,Syria,ELS,Esports,1,2,3
+SYR,Syria,JUD,Judo,1,0,1
+SYR,Syria,KTE,Karate,2,0,2
+SYR,Syria,KUR,Kurash,1,0,1
+SYR,Syria,GRY,Rhythmic Gymnastics,0,1,1
+SYR,Syria,SHO,Shooting,2,0,2
+SYR,Syria,TTE,Table Tennis,0,2,2
+SYR,Syria,WRE,Wrestling,1,0,1
+TJK,Tajikistan,ARC,Archery,3,0,3
+TJK,Tajikistan,ATH,Athletics,3,0,3
+TJK,Tajikistan,BDM,Badminton,2,0,2
+TJK,Tajikistan,BOX,Boxing,6,4,10
+TJK,Tajikistan,BKG,Breaking,2,2,4
+TJK,Tajikistan,CSP,Canoe Sprint,2,0,2
+TJK,Tajikistan,ELS,Esports,3,0,3
+TJK,Tajikistan,FEN,Fencing,1,0,1
+TJK,Tajikistan,JJI,Jiu Jitsu,5,1,6
+TJK,Tajikistan,JUD,Judo,7,2,9
+TJK,Tajikistan,KTE,Karate,3,0,3
+TJK,Tajikistan,KUR,Kurash,3,1,4
+TJK,Tajikistan,MMA,Mixed Martial Arts,3,0,3
+TJK,Tajikistan,SHO,Shooting,3,4,7
+TJK,Tajikistan,SWM,Swimming,9,2,11
+TJK,Tajikistan,TKW,Taekwondo,2,0,2
+TJK,Tajikistan,TEN,Tennis,6,5,11
+TJK,Tajikistan,GTR,Trampoline Gymnastics,1,0,1
+TJK,Tajikistan,WLF,Weightlifting,1,0,1
+TJK,Tajikistan,WRE,Wrestling,8,1,9
+TJK,Tajikistan,WSU,Wushu,4,0,4
+THA,Thailand,BK3,3x3 Basketball,4,4,8
+THA,Thailand,ARC,Archery,4,4,8
+THA,Thailand,GAR,Artistic Gymnastics,1,0,1
+THA,Thailand,SWA,Artistic Swimming,1,9,10
+THA,Thailand,ATH,Athletics,15,9,24
+THA,Thailand,BDM,Badminton,10,10,20
+THA,Thailand,BBL,Baseball,24,0,24
+THA,Thailand,BKB,Basketball,0,12,12
+THA,Thailand,VBV,Beach Volleyball,4,4,8
+THA,Thailand,BOX,Boxing,6,5,11
+THA,Thailand,BKG,Breaking,2,2,4
+THA,Thailand,CSL,Canoe Slalom,3,3,6
+THA,Thailand,CSP,Canoe Sprint,6,4,10
+THA,Thailand,CKT,Cricket,0,15,15
+THA,Thailand,BMF,Cycling BMX Freestyle,2,0,2
+THA,Thailand,BMX,Cycling BMX Racing,2,2,4
+THA,Thailand,MTB,Cycling Mountain Bike,2,2,4
+THA,Thailand,CRD,Cycling Road,4,3,7
+THA,Thailand,CTR,Cycling Track,5,1,6
+THA,Thailand,DIV,Diving,2,0,2
+THA,Thailand,EQU,Equestrian,5,3,8
+THA,Thailand,ELS,Esports,29,0,29
+THA,Thailand,FEN,Fencing,2,8,10
+THA,Thailand,FBL,Football,23,23,46
+THA,Thailand,GLF,Golf,3,3,6
+THA,Thailand,HOC,Hockey,20,18,38
+THA,Thailand,JJI,Jiu Jitsu,9,6,15
+THA,Thailand,JUD,Judo,4,3,7
+THA,Thailand,KAB,Kabaddi,12,12,24
+THA,Thailand,KTE,Karate,3,5,8
+THA,Thailand,KUR,Kurash,2,2,4
+THA,Thailand,MMA,Mixed Martial Arts,1,1,2
+THA,Thailand,MPN,Modern Pentathlon,2,3,5
+THA,Thailand,PDL,Padel,2,2,4
+THA,Thailand,GRY,Rhythmic Gymnastics,0,7,7
+THA,Thailand,ROW,Rowing,7,3,10
+THA,Thailand,RU7,Rugby Sevens,13,13,26
+THA,Thailand,SAL,Sailing,8,8,16
+THA,Thailand,SPK,Sepaktakraw,12,12,24
+THA,Thailand,SHO,Shooting,14,10,24
+THA,Thailand,SKB,Skateboarding,4,3,7
+THA,Thailand,TST,Soft Tennis,0,5,5
+THA,Thailand,SBL,Softball,0,17,17
+THA,Thailand,CLB,Sport Climbing,3,4,7
+THA,Thailand,SQU,Squash,3,1,4
+THA,Thailand,SRF,Surfing,2,2,4
+THA,Thailand,SWM,Swimming,8,11,19
+THA,Thailand,TTE,Table Tennis,3,5,8
+THA,Thailand,TKW,Taekwondo,5,5,10
+THA,Thailand,TEN,Tennis,6,5,11
+THA,Thailand,TEQ,Teqball,3,2,5
+THA,Thailand,TRI,Triathlon,3,3,6
+THA,Thailand,VVO,Volleyball,12,12,24
+THA,Thailand,WPO,Water Polo,15,15,30
+THA,Thailand,WLF,Weightlifting,5,5,10
+THA,Thailand,WRE,Wrestling,4,0,4
+THA,Thailand,WSU,Wushu,5,1,6
+TLS,Timor-Leste,ARC,Archery,1,1,2
+TLS,Timor-Leste,ATH,Athletics,2,1,3
+TLS,Timor-Leste,VBV,Beach Volleyball,2,0,2
+TLS,Timor-Leste,SWM,Swimming,0,1,1
+TLS,Timor-Leste,TKW,Taekwondo,0,1,1
+TLS,Timor-Leste,WLF,Weightlifting,1,1,2
+TLS,Timor-Leste,WRE,Wrestling,1,0,1
+TKM,Turkmenistan,ATH,Athletics,1,2,3
+TKM,Turkmenistan,BOX,Boxing,5,0,5
+TKM,Turkmenistan,ELS,Esports,2,0,2
+TKM,Turkmenistan,KTE,Karate,3,0,3
+TKM,Turkmenistan,KUR,Kurash,3,3,6
+TKM,Turkmenistan,SWM,Swimming,2,1,3
+TKM,Turkmenistan,WLF,Weightlifting,2,2,4
+TKM,Turkmenistan,WRE,Wrestling,6,0,6
+TKM,Turkmenistan,WSU,Wushu,3,2,5
+UAE,UA Emirates,ARC,Archery,4,6,10
+UAE,UA Emirates,ATH,Athletics,3,2,5
+UAE,UA Emirates,CRD,Cycling Road,3,2,5
+UAE,UA Emirates,CTR,Cycling Track,3,0,3
+UAE,UA Emirates,EQU,Equestrian,5,3,8
+UAE,UA Emirates,ELS,Esports,14,1,15
+UAE,UA Emirates,FEN,Fencing,7,2,9
+UAE,UA Emirates,FBL,Football,23,0,23
+UAE,UA Emirates,GLF,Golf,3,3,6
+UAE,UA Emirates,JJI,Jiu Jitsu,10,6,16
+UAE,UA Emirates,JUD,Judo,5,0,5
+UAE,UA Emirates,MPN,Modern Pentathlon,1,0,1
+UAE,UA Emirates,PDL,Padel,2,4,6
+UAE,UA Emirates,RU7,Rugby Sevens,13,0,13
+UAE,UA Emirates,SAL,Sailing,2,2,4
+UAE,UA Emirates,SHO,Shooting,8,6,14
+UAE,UA Emirates,SWM,Swimming,5,0,5
+UAE,UA Emirates,TKW,Taekwondo,0,1,1
+UAE,UA Emirates,TRI,Triathlon,1,0,1
+UAE,UA Emirates,WLF,Weightlifting,0,3,3
+UZB,Uzbekistan,BK3,3x3 Basketball,0,4,4
+UZB,Uzbekistan,ARC,Archery,3,3,6
+UZB,Uzbekistan,GAR,Artistic Gymnastics,5,3,8
+UZB,Uzbekistan,SWA,Artistic Swimming,0,3,3
+UZB,Uzbekistan,ATH,Athletics,11,8,19
+UZB,Uzbekistan,VBV,Beach Volleyball,2,0,2
+UZB,Uzbekistan,BOX,Boxing,6,5,11
+UZB,Uzbekistan,CSL,Canoe Slalom,3,0,3
+UZB,Uzbekistan,CSP,Canoe Sprint,4,6,10
+UZB,Uzbekistan,CRD,Cycling Road,3,3,6
+UZB,Uzbekistan,CTR,Cycling Track,2,4,6
+UZB,Uzbekistan,DIV,Diving,4,0,4
+UZB,Uzbekistan,EQU,Equestrian,2,1,3
+UZB,Uzbekistan,ELS,Esports,13,0,13
+UZB,Uzbekistan,FEN,Fencing,10,8,18
+UZB,Uzbekistan,FBL,Football,23,23,46
+UZB,Uzbekistan,GLF,Golf,3,0,3
+UZB,Uzbekistan,HBL,Handball,0,14,14
+UZB,Uzbekistan,HOC,Hockey,18,18,36
+UZB,Uzbekistan,JJI,Jiu Jitsu,4,0,4
+UZB,Uzbekistan,JUD,Judo,7,9,16
+UZB,Uzbekistan,KTE,Karate,3,3,6
+UZB,Uzbekistan,KUR,Kurash,3,4,7
+UZB,Uzbekistan,MMA,Mixed Martial Arts,3,1,4
+UZB,Uzbekistan,MPN,Modern Pentathlon,1,2,3
+UZB,Uzbekistan,GRY,Rhythmic Gymnastics,0,7,7
+UZB,Uzbekistan,ROW,Rowing,11,5,16
+UZB,Uzbekistan,RU7,Rugby Sevens,12,0,12
+UZB,Uzbekistan,SAL,Sailing,2,0,2
+UZB,Uzbekistan,SHO,Shooting,10,2,12
+UZB,Uzbekistan,SQU,Squash,2,2,4
+UZB,Uzbekistan,SWM,Swimming,4,1,5
+UZB,Uzbekistan,TTE,Table Tennis,3,3,6
+UZB,Uzbekistan,TKW,Taekwondo,4,3,7
+UZB,Uzbekistan,TEN,Tennis,3,2,5
+UZB,Uzbekistan,TRI,Triathlon,2,2,4
+UZB,Uzbekistan,VVO,Volleyball,12,0,12
+UZB,Uzbekistan,WPO,Water Polo,0,15,15
+UZB,Uzbekistan,WLF,Weightlifting,5,1,6
+UZB,Uzbekistan,WRE,Wrestling,12,6,18
+UZB,Uzbekistan,WSU,Wushu,6,3,9
+VIE,Vietnam,ARC,Archery,6,6,12
+VIE,Vietnam,GAR,Artistic Gymnastics,5,3,8
+VIE,Vietnam,ATH,Athletics,7,16,23
+VIE,Vietnam,BDM,Badminton,3,3,6
+VIE,Vietnam,VBV,Beach Volleyball,4,4,8
+VIE,Vietnam,BOX,Boxing,1,5,6
+VIE,Vietnam,BKG,Breaking,2,2,4
+VIE,Vietnam,CSP,Canoe Sprint,4,7,11
+VIE,Vietnam,CRD,Cycling Road,3,3,6
+VIE,Vietnam,ELS,Esports,23,0,23
+VIE,Vietnam,FEN,Fencing,7,3,10
+VIE,Vietnam,FBL,Football,23,23,46
+VIE,Vietnam,GLF,Golf,3,2,5
+VIE,Vietnam,HBL,Handball,0,16,16
+VIE,Vietnam,JJI,Jiu Jitsu,7,6,13
+VIE,Vietnam,JUD,Judo,0,2,2
+VIE,Vietnam,KTE,Karate,5,4,9
+VIE,Vietnam,KUR,Kurash,0,4,4
+VIE,Vietnam,MMA,Mixed Martial Arts,1,1,2
+VIE,Vietnam,ROW,Rowing,8,15,23
+VIE,Vietnam,SAL,Sailing,2,1,3
+VIE,Vietnam,SPK,Sepaktakraw,11,9,20
+VIE,Vietnam,SHO,Shooting,8,7,15
+VIE,Vietnam,SWM,Swimming,8,2,10
+VIE,Vietnam,TKW,Taekwondo,4,4,8
+VIE,Vietnam,TEQ,Teqball,3,1,4
+VIE,Vietnam,VVO,Volleyball,12,12,24
+VIE,Vietnam,WLF,Weightlifting,2,2,4
+VIE,Vietnam,WRE,Wrestling,3,4,7
+VIE,Vietnam,WSU,Wushu,8,5,13
+YEM,Yemen,ARC,Archery,1,1,2
+YEM,Yemen,ATH,Athletics,2,0,2
+YEM,Yemen,BOX,Boxing,1,0,1
+YEM,Yemen,JUD,Judo,1,0,1
+YEM,Yemen,SHO,Shooting,0,2,2
+YEM,Yemen,SWM,Swimming,2,0,2
+YEM,Yemen,TTE,Table Tennis,3,0,3
+YEM,Yemen,TEN,Tennis,1,0,1
+YEM,Yemen,WSU,Wushu,3,0,3

@@ -1,0 +1,426 @@
+---
+title: "Beyond the Medal Table: the Philippines at Aichi-Nagoya 2026"
+subtitle: "Comparable performance metrics for every country at the 20th Asian Games"
+date: today
+date-format: "D MMMM YYYY"
+format:
+  html:
+    embed-resources: true
+    toc: true
+    toc-depth: 3
+    toc-location: left
+    toc-title: "Contents"
+    theme: flatly
+    fig-dpi: 120
+    fig-align: center
+    tbl-cap-location: top
+    fig-cap-location: bottom
+    page-layout: article
+    smooth-scroll: true
+execute:
+  echo: false
+  warning: false
+  message: false
+crossref:
+  fig-title: "Figure"
+  tbl-title: "Table"
+---
+
+```{r setup}
+root <- normalizePath("..")
+knitr::opts_knit$set(root.dir = root)
+suppressPackageStartupMessages({ library(dplyr); library(tidyr); library(gt); library(scales) })
+source(file.path(root, "R/figures_lib.R"))
+source(file.path(root, "R/report_tables.R"))
+m  <- readRDS(file.path(root, "output/metrics.rds"))
+d  <- readRDS(file.path(root, "data/ag2026.rds"))
+cn <- m$country
+phi <- filter(cn, country_code == "PHI")
+phi_mt <- filter(d$medal_table, country_code == "PHI")
+n_el <- sum(!is.na(cn$rank_comparable))
+n_all <- nrow(cn)
+phi_sens <- filter(m$sensitivity, country_code == "PHI")
+figs <- make_figures(m)
+pc  <- function(x) sprintf("%.1f%%", 100 * x)
+f2  <- function(x) sprintf("%.2f", x)
+pr  <- function(col) rank_among_eligible(cn, col)
+sea_ratio <- function(code) f2(cn$perf_vs_resources[cn$country_code == code])
+
+# shared gt look
+gt_ag <- function(x) {
+  x |> tab_options(table.font.size = px(13), column_labels.font.weight = "bold",
+                   column_labels.background.color = "#f1f4f8", data_row.padding = px(4),
+                   footnotes.font.size = px(12), table.width = pct(100)) |>
+    opt_footnote_marks(marks = "letters") |>
+    tab_style(cell_text(align = "left"), cells_footnotes())
+}
+```
+
+```{r downloads}
+#| output: asis
+b64 <- function(p) base64enc::base64encode(file.path(root, p))
+xlsx <- "output/downloads/ag2026_data_and_tables.xlsx"
+zipf <- "output/downloads/ag2026_figures_600dpi.zip"
+mb <- function(p) sprintf("%.1f MB", file.size(file.path(root, p)) / 1e6)
+html <- paste(readLines(file.path(root, "report/download_bar.html"), encoding = "UTF-8"), collapse = "\n")
+for (kv in list(c("{{XLSX_MB}}", mb(xlsx)), c("{{ZIP_MB}}", mb(zipf)),
+                c("{{XLSX_B64}}", b64(xlsx)), c("{{ZIP_B64}}", b64(zipf))))
+  html <- sub(kv[1], kv[2], html, fixed = TRUE)
+fence <- strrep("`", 3)
+cat("\n", fence, "{=html}\n", html, "\n", fence, "\n\n", sep = "")
+```
+
+## Summary
+
+::: {.callout-note}
+## Terms used in this report
+
+- **Country**: strictly a *National Olympic Committee* (**NOC**), the body that enters a team at the Asian
+  Games. Most NOCs are countries, but some territories compete separately (Hong Kong, China; Macao, China;
+  Chinese Taipei). `r n_all` NOCs took part. This report says "country" throughout.
+- **Entry**: one competitor (an athlete, a pair or a team) in one event.
+- **Medal points**: 3 for a gold, 2 for a silver, 1 for a bronze.
+:::
+
+On the official medal table, which ranks by gold first, the Philippines finished
+**#`r phi$rank_official`** with **`r phi$gold` gold, `r phi$silver` silver and `r phi$bronze` bronze**
+(`r phi$medals` medals). That table rewards size: the countries at the top sent the biggest
+teams and entered almost every event.
+
+This report compares the `r n_el` countries with at least 25 entries on an equal footing. @tbl-summary gives the
+Philippines' value on each comparable measure and its rank among those `r n_el` countries. On the
+composite **Comparable Performance Index**, the Philippines ranks **#`r phi$rank_comparable` of `r n_el`**.
+
+```{r}
+#| label: tbl-summary
+#| tbl-cap: "The Philippines on each comparable measure, ranked among the countries with at least 25 entries (1 = best)"
+tbl_phi_summary(cn) |>
+  gt() |> gt_ag() |>
+  cols_align("left", Measure) |>
+  tab_footnote("Share of entries that won a medal.", cells_body(Measure, Measure == "Medals per entry")) |>
+  tab_footnote("For each entry, the share of the other competitors in that event it finished ahead of (winner = 100%, last = 0%), averaged over all entries.",
+               cells_body(Measure, Measure == "Average field beaten")) |>
+  tab_footnote("Share of entries that finished in the top eight.", cells_body(Measure, Measure == "Top-8 rate")) |>
+  tab_footnote("A rating from every match, bout and game that gives more credit for beating strong opponents. 0 = average.",
+               cells_body(Measure, Measure == "Head-to-head strength")) |>
+  tab_footnote("Medal points won divided by the medal points expected for a country with the same population, GDP per person and host status. Above 1 = better than expected.",
+               cells_body(Measure, Measure == "Actual ÷ expected medal points")) |>
+  tab_footnote("As above, but the expectation also allows for the number of athletes sent, so large teams are expected to win more.",
+               cells_body(Measure, Measure == "Actual ÷ expected medal points, allowing for team size")) |>
+  tab_footnote("Average percentile (0 to 100) across five measures: field beaten, medals per entry, top-8 rate, head-to-head strength and actual ÷ expected (allowing for team size).",
+               cells_body(Measure, Measure == "Comparable Performance Index"))
+```
+
+::: {.callout-important}
+## Bottom line
+
+The data does **not** support the claim that the Philippines was broadly under-credited. On every version of
+the comparable index the Philippines sits mid-table (#`r min(phi_sens$rank)` to #`r max(phi_sens$rank)` of
+`r n_el`), and its official #`r phi$rank_official` is already at the favourable end of that range. Two things
+the medal table *does* hide: the gold-first rule costs it three places, and it out-performed most of
+Southeast Asia relative to its population and wealth.
+:::
+
+## Key findings
+
+**1. Under every reasonable definition, the Philippines is a mid-table Asian Games nation,
+not a top-15 one held back by the medal table.** Across four versions of the composite index
+(@fig-sensitivity), the Philippines ranks between **#`r min(phi_sens$rank)` and #`r max(phi_sens$rank)`**
+of `r n_el`. Its official position (#`r phi$rank_official` by gold, #`r phi_mt$rank_total` by total medals)
+sits at the favourable end of that range.
+
+**2. Gold-first ranking does cost the Philippines three places.** Ranked by total medals,
+it is #`r phi_mt$rank_total`, not #`r phi$rank_official`. With `r phi$silver` silvers and `r phi$bronze`
+bronzes against `r phi$gold` golds, the Philippine haul is unusually silver- and bronze-heavy, which a
+gold-first table under-represents.
+
+**3. Relative to population and wealth, the Philippines out-performed most of its Southeast Asian
+peers.** A country with the Philippines' population and GDP per person would be expected to win
+about `r round(phi$expected_medal_points_resources)` medal points. It won `r phi$medal_points`
+(ratio `r f2(phi$perf_vs_resources)`). Indonesia (`r sea_ratio("INA")`), Vietnam (`r sea_ratio("VIE")`) and
+Singapore (`r sea_ratio("SGP")`) fell further short. Thailand (`r sea_ratio("THA")`) and Malaysia
+(`r sea_ratio("MAS")`) did better (@fig-sea).
+
+**4. The weak point is conversion, not depth.** The Philippines sent `r phi$athletes` athletes
+into `r phi$events_entered` events, one of the larger teams. That breadth produced
+`r phi$top8_finishes` top-8 finishes and `r phi$near_misses` 4th or 5th places, but only
+`r pc(phi$medals_per_entry)` of entries won a medal, #`r pr("medals_per_entry")` of `r n_el`.
+Once team size is allowed for, the actual ÷ expected ratio falls to `r f2(phi$perf_vs_resources_delegation)`.
+
+::: {.callout-tip}
+## A judgement call, shown both ways
+
+Whether a broad, development-minded team should be "penalised" for its size is a value judgement. That is why
+@fig-sensitivity shows the index both with and without the team-size adjustment. Without it, the Philippines
+rises to #`r filter(phi_sens, grepl("^Population and wealth only", variant))$rank`.
+:::
+
+**5. There are world-class pockets.** Taekwondo (5 medals from 8 entries, 78% of the field beaten),
+3x3 basketball, surfing, artistic gymnastics (the Yulo brothers: 2 golds and a bronze) and
+Obiena's pole-vault gold are performances at the level of the strongest nations in Asia (@fig-sport). The
+gap is in sports with many medals on offer (swimming, shooting, fencing, wrestling,
+judo), where the Philippines entered but rarely reached the final rounds.
+
+## Why the medal table is not a fair comparison
+
+1. **Gold-first ranking.** One gold outranks any number of silvers. A country with 0 gold, 0 silver and
+   30 bronze sits below one with a single gold.
+2. **Team size.** China and Japan (the host) entered nearly every event, so they had many
+   more chances to win medals. A raw count measures how many chances a country had as much
+   as how well it converted them.
+3. **Resources.** Population and national wealth strongly predict medal counts at every
+   multi-sport games (Bernard & Busse, 2004). Winning more medals than your population and
+   wealth predict is itself an achievement.
+4. **Results below the podium.** A 4th place, or a quarter-final loss to the eventual champion,
+   counts as zero on the medal table.
+
+## How the comparable metrics work
+
+Every measure is computed the same way for every country from the scraped results. Entries recorded as
+"did not start" are dropped.
+
+Medal points
+: 3 per gold, 2 per silver, 1 per bronze, so every medal counts.
+
+Medals per entry and per 100 athletes
+: Conversion rates that remove the effect of team size.
+
+Average field beaten
+: For each entry, the share of the other competitors in that event it finished ahead of:
+  (field size − final place) ÷ (field size − 1). A winner scores 100%, last place 0%, and
+  "did not finish" or "disqualified" count as 0%. The country value is the average over all its entries.
+  It is comparable across sports and field sizes because it is always a share of the field.
+
+Top-8 rate
+: Share of entries that finished in the top eight (a "final" in most sports).
+
+Head-to-head strength
+: A Bradley–Terry rating fitted to every head-to-head contest (matches, bouts, games). A win over
+  a strong country counts for more than a win over a weak one. A light penalty keeps countries with few
+  matches from getting extreme ratings.
+
+Actual ÷ expected medal points
+: A regression of medal points on population, GDP per person and a host flag (and, in the second
+  version, the number of athletes sent). The ratio of actual to expected medal points shows over- or
+  under-performance against what a similar country typically wins.
+
+Comparable Performance Index
+: The average percentile rank (0–100), among the `r n_el` countries with at least 25 entries, of
+  average field beaten, medals per entry, top-8 rate, head-to-head strength and actual ÷ expected medal
+  points (allowing for team size). The five parts are weighted equally.
+
+::: {.callout-note}
+## Why small teams are adjusted
+
+A team with 12 entries and 5 medals is not reliably better than one with 400 entries and 100 medals.
+Before ranking, the three rate measures (medals per entry, top-8 rate and field beaten) are pulled toward
+the all-country average by adding 25 "average" entries to every team. This barely moves large teams and stops
+very small ones from topping the index by luck.
+:::
+
+## Official rank vs. comparable rank
+
+@fig-rank sets each country's official medal-table rank beside its rank on the Comparable Performance
+Index. A long bar means the medal table describes that country poorly.
+
+::: {.callout-tip}
+## How to read Figure 1
+
+Countries run from best (top) to worst (bottom) on the comparable index. The hollow dot is the official rank;
+the filled dot is the comparable rank. When the filled dot is to the **right** of the hollow one, the
+country did better than the medal table suggests.
+:::
+
+```{r}
+#| label: fig-rank
+#| fig-cap: !expr 'figs$rank_official_vs_comparable$title'
+#| fig-width: !expr 'figs$rank_official_vs_comparable$w'
+#| fig-height: !expr 'figs$rank_official_vs_comparable$h'
+figs$rank_official_vs_comparable$plot
+```
+
+@tbl-ranking gives the values behind the index for every eligible country. The Philippines is highlighted.
+
+```{r}
+#| label: tbl-ranking
+#| column: page-right
+#| tbl-cap: "Comparable measures for every country with at least 25 entries, ordered by the Comparable Performance Index"
+tbl_ranking(cn) |>
+  gt() |> gt_ag() |>
+  fmt_percent(c(`Medals per entry`, `Average field beaten`, `Top-8 rate`), decimals = 1) |>
+  fmt_number(c(`Head-to-head strength`, `Actual ÷ expected`), decimals = 2) |>
+  fmt_number(Index, decimals = 1) |>
+  sub_missing(missing_text = "–") |>
+  tab_spanner("Medals", c(Gold, Silver, Bronze)) |>
+  tab_spanner("Team size", c(Athletes, Entries)) |>
+  tab_style(list(cell_fill("#e3eefb"), cell_text(weight = "bold")), cells_body(rows = Country == "Philippines")) |>
+  tab_footnote("Rank on the official medal table, which orders countries by golds, then silvers, then bronzes.",
+               cells_column_labels(`Official rank`)) |>
+  tab_footnote("One competitor (athlete, pair or team) in one event.", cells_column_labels(Entries)) |>
+  tab_footnote("Share of entries that won a medal.", cells_column_labels(`Medals per entry`)) |>
+  tab_footnote("Average share of each event's field that the country's entries finished ahead of.",
+               cells_column_labels(`Average field beaten`)) |>
+  tab_footnote("Share of entries that finished in the top eight.", cells_column_labels(`Top-8 rate`)) |>
+  tab_footnote("Opponent-adjusted rating from every match, bout and game (0 = average).",
+               cells_column_labels(`Head-to-head strength`)) |>
+  tab_footnote("Medal points won ÷ medal points expected from population, GDP per person, host status and team size. A dash means no GDP figure (DPR Korea).",
+               cells_column_labels(`Actual ÷ expected`)) |>
+  tab_footnote("Comparable Performance Index: average percentile (0–100) of the five measures to its left (rate measures adjusted for small teams).",
+               cells_column_labels(Index)) |>
+  tab_options(table.font.size = px(12)) |>
+  cols_width(Country ~ px(150))
+```
+
+## Is the ranking robust?
+
+An index is only useful if its verdict does not depend on arbitrary choices. @fig-sensitivity rebuilds it
+four ways: the baseline; allowing for population and wealth but not team size; with no resource
+adjustment at all; and with competitive quality alone (field beaten and head-to-head strength).
+
+```{r}
+#| label: fig-sensitivity
+#| fig-cap: !expr 'figs$index_sensitivity$title'
+#| fig-width: !expr 'figs$index_sensitivity$w'
+#| fig-height: !expr 'figs$index_sensitivity$h'
+figs$index_sensitivity$plot
+```
+
+The Philippines moves between #`r min(phi_sens$rank)` (version: `r phi_sens$variant[which.min(phi_sens$rank)]`)
+and #`r max(phi_sens$rank)` (version: `r phi_sens$variant[which.max(phi_sens$rank)]`). Its best case equals its official rank, so no version of the index lifts it above the medal table.
+
+## Depth of results and conversion
+
+@fig-depth separates *how far into the field* a country's athletes went (horizontal) from *how often that
+became a medal* (vertical). Countries to the right but low down reach finals without winning medals.
+
+```{r}
+#| label: fig-depth
+#| fig-cap: !expr 'figs$field_beaten_vs_conversion$title'
+#| fig-width: !expr 'figs$field_beaten_vs_conversion$w'
+#| fig-height: !expr 'figs$field_beaten_vs_conversion$h'
+figs$field_beaten_vs_conversion$plot
+```
+
+The Philippines beat `r pc(phi$avg_field_beaten)` of the field on average, close to the middle of the
+pack, but converted only `r pc(phi$medals_per_entry)` of entries into medals.
+
+## Medals against expectations
+
+@fig-expected compares the medal points each country won with what a country of its population, GDP per
+person and host status would be expected to win. Points above the dashed line beat expectations.
+
+```{r}
+#| label: fig-expected
+#| fig-cap: !expr 'figs$actual_vs_expected$title'
+#| fig-width: !expr 'figs$actual_vs_expected$w'
+#| fig-height: !expr 'figs$actual_vs_expected$h'
+figs$actual_vs_expected$plot
+```
+
+The Philippines won `r phi$medal_points` medal points against an expected
+`r round(phi$expected_medal_points_resources)` (ratio `r f2(phi$perf_vs_resources)`), slightly below the line.
+If the expectation also allows for its large team, the expected figure rises to
+`r round(phi$expected_medal_points_resources_delegation)` and the ratio falls to
+`r f2(phi$perf_vs_resources_delegation)`. The model coefficients are in the Excel download.
+
+## Southeast Asia
+
+@fig-sea compares the Philippines with its regional neighbours on four measures that do not depend on team
+size.
+
+```{r}
+#| label: fig-sea
+#| fig-cap: !expr 'figs$southeast_asia$title'
+#| fig-width: !expr 'figs$southeast_asia$w'
+#| fig-height: !expr 'figs$southeast_asia$h'
+figs$southeast_asia$plot
+```
+
+Thailand leads the region relative to its resources. The Philippines is in the lower middle of the region
+on medals per 100 athletes, field beaten and head-to-head win rate, but third on actual ÷ expected medal
+points, ahead of Indonesia, Vietnam and Singapore.
+
+## The Philippines in detail
+
+### Results by sport
+
+@fig-sport shows, for each sport the Philippines entered, how far into the field its athletes finished on
+average, with the medal, top-8 and entry counts beside each bar.
+
+```{r}
+#| label: fig-sport
+#| fig-cap: !expr 'figs$phi_by_sport$title'
+#| fig-width: !expr 'figs$phi_by_sport$w'
+#| fig-height: !expr 'figs$phi_by_sport$h'
+figs$phi_by_sport$plot
+```
+
+### Medals
+
+@tbl-medals lists all `r phi$medals` Philippine medals, golds first, then by date.
+
+```{r}
+#| label: tbl-medals
+#| tbl-cap: "Every Philippine medal at Aichi-Nagoya 2026"
+tbl_phi_medals(m) |>
+  mutate(Date = format(Date, "%d %b")) |>
+  gt() |> gt_ag() |>
+  tab_style(cell_fill("#fbf3d5"), cells_body(rows = Medal == "Gold")) |>
+  tab_footnote("Number of entries that started the event.", cells_column_labels(`Field size`))
+```
+
+### Near misses
+
+A near miss is a 4th or 5th place without a medal. In sports that award two bronzes (combat sports, for
+example) 5th place means losing the bronze-medal bout. @tbl-near lists all `r phi$near_misses`.
+
+```{r}
+#| label: tbl-near
+#| tbl-cap: "Philippine 4th and 5th places (near misses)"
+tbl_phi_near(m) |>
+  gt() |> gt_ag() |>
+  tab_footnote("Final classification. Tied places share the same number.", cells_column_labels(Place)) |>
+  tab_footnote("Number of entries that started the event.", cells_column_labels(`Field size`))
+```
+
+### Head-to-head record
+
+The Philippines won `r phi$h2h_wins` and lost `r phi$h2h_matches - phi$h2h_wins` of its
+`r phi$h2h_matches` head-to-head contests (`r pc(phi$h2h_win_rate)`). @fig-opp breaks that down by opponent.
+Most losses came against the strongest teams in Asia (Japan, China, Korea, Chinese Taipei), and most
+wins against the middle of the field.
+
+```{r}
+#| label: fig-opp
+#| fig-cap: !expr 'figs$phi_h2h_by_opponent$title'
+#| fig-width: !expr 'figs$phi_h2h_by_opponent$w'
+#| fig-height: !expr 'figs$phi_h2h_by_opponent$h'
+figs$phi_h2h_by_opponent$plot
+```
+
+Because a raw win rate depends on who you happened to play, @fig-h2h adjusts for opponent strength. The
+Philippines ranks #`r pr("h2h_strength")` of `r n_el` on this rating.
+
+```{r}
+#| label: fig-h2h
+#| fig-cap: !expr 'figs$h2h_strength$title'
+#| fig-width: !expr 'figs$h2h_strength$w'
+#| fig-height: !expr 'figs$h2h_strength$h'
+figs$h2h_strength$plot
+```
+
+## Caveats
+
+::: {.callout-warning}
+## Limits of this analysis
+
+- **Head-to-head counts every match equally**, from group-stage games to finals. The individual rubbers
+  inside a team tie are not counted separately.
+- **Field beaten uses each sport's official final classification.** Some sports rank every competitor
+  individually; others give every quarter-final loser 5th place. Both are used as published.
+- **Population and GDP adjustments.** DPR Korea has no World Bank GDP figure, so it has no actual ÷ expected
+  value. Chinese Taipei's population and GDP come from Taiwan's official statistics.
+- **Missing units.** 3 provisional units (one equestrian dressage test, one surfing heat, one sailing race)
+  had no published results when the data was scraped. They do not affect any medal.
+- Results are as published on results.asiangames2026.org at the time of scraping.
+:::

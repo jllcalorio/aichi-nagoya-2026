@@ -1,0 +1,41 @@
+opponent_country_code,opponent_country,matches,wins,losses,win_rate
+JPN,Japan,39,10,29,0.2564102564102564
+KOR,Korea,27,9,18,0.3333333333333333
+CHN,China,26,6,20,0.23076923076923078
+KAZ,Kazakhstan,26,13,13,0.5
+THA,Thailand,26,10,16,0.38461538461538464
+INA,Indonesia,25,10,15,0.4
+TPE,Chinese Taipei,24,6,18,0.25
+IND,India,21,8,13,0.38095238095238093
+HKG,"Hong Kong, China",19,12,7,0.631578947368421
+MGL,Mongolia,19,12,7,0.631578947368421
+VIE,Vietnam,17,6,11,0.35294117647058826
+SGP,Singapore,14,4,10,0.2857142857142857
+UZB,Uzbekistan,13,5,8,0.38461538461538464
+IRI,IR Iran,10,4,6,0.4
+MAS,Malaysia,10,3,7,0.3
+KUW,Kuwait,9,7,2,0.7777777777777778
+UAE,UA Emirates,9,4,5,0.4444444444444444
+CAM,Cambodia,6,5,1,0.8333333333333334
+JOR,Jordan,6,5,1,0.8333333333333334
+KSA,Saudi Arabia,6,5,1,0.8333333333333334
+PAK,Pakistan,6,4,2,0.6666666666666666
+KGZ,Kyrgyzstan,5,4,1,0.8
+MAC,"Macao, China",4,3,1,0.75
+SRI,Sri Lanka,4,3,1,0.75
+TJK,Tajikistan,4,2,2,0.5
+BAN,Bangladesh,3,2,1,0.6666666666666666
+LAO,Lao PDR,3,3,0,1
+AFG,Afghanistan,2,0,2,0
+BRN,Bahrain,2,0,2,0
+IRQ,Iraq,2,0,2,0
+NEP,Nepal,2,2,0,1
+OMA,Oman,2,1,1,0.5
+PLE,Palestine,2,2,0,1
+QAT,Qatar,2,1,1,0.5
+TKM,Turkmenistan,2,0,2,0
+LBN,Lebanon,1,1,0,1
+MDV,Maldives,1,1,0,1
+MYA,Myanmar,1,0,1,0
+PRK,DPR Korea,1,0,1,0
+TLS,Timor-Leste,1,1,0,1
