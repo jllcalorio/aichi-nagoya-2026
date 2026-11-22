@@ -80,7 +80,8 @@ R/
 report/
   ag2026_philippines_report.qmd
   download_bar.html
-data/    output/
+data/    
+output/
 ```
 
 ## Getting started
@@ -113,7 +114,3 @@ The first scrape is slow (about 1.5 hours at 1 request per second, roughly 6,000
 ## Data source and terms
 
 All competition data belongs to its publishers (Aichi-Nagoya 2026 organisers / Olympic Council of Asia). This repository contains an independent analysis. Check the results site's terms of use before redistributing the raw data.
-
-## License
-
-Code: choose a license (for example MIT). Data: see the note above.
